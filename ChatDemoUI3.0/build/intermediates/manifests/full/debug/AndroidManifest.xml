@@ -48,7 +48,8 @@
         android:name="cn.ypxy.superwechat.DemoApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name" >
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
         <activity
             android:name="cn.ypxy.superwechat.ui.MainActivity"
             android:launchMode="singleTask"

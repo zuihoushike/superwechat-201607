@@ -126,6 +126,7 @@ org/apache/http/conn/BasicEofSensorWatcher.class
 com/easemob/redpacketsdk/utils/RPPreferenceManager.class
 org/apache/http/impl/io/HttpRequestParser.class
 com/hyphenate/util/PathUtil.class
+cn/ypxy/superwechat/ui/GuideActivity.class
 cn/ypxy/superwechat/ui/LoginActivity$2.class
 com/easemob/redpacketui/ui/activity/RPRedPacketActivity.class
 com/hyphenate/chat/EMMonitor.class
