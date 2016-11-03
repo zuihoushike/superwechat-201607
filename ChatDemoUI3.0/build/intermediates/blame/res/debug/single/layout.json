@@ -280,6 +280,10 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\layout\\ease_row_received_video_call.xml"
     },
     {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\view_layout_title.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\layout\\view_layout_title.xml"
+    },
+    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\layout\\ease_row_sent_location.xml"
     },

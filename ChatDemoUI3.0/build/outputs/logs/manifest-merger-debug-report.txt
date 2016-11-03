@@ -164,7 +164,7 @@ MERGED from [com.android.support:support-fragment:24.2.0] F:\SuperWeChat\ChatDem
 	android:theme
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:53:9-40
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:50:9-59
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:50:9-66
 activity#cn.ypxy.superwechat.ui.MainActivity
 ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:55:9-60:55
 	android:screenOrientation

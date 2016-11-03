@@ -629,6 +629,43 @@
     <string name="money_username_format">%1$s的红包</string>
     <string name="move_out_backlist">Remove from blacklist</string>
     <string name="move_up_to_cancel">Finger up to cancel sending</string>
+    <string name="msg_101">msg register username exists</string>
+    <string name="msg_102">msg register fail</string>
+    <string name="msg_103">msg unregister fail</string>
+    <string name="msg_104">msg user search fail</string>
+    <string name="msg_105">msg login unknow user</string>
+    <string name="msg_106">msg login error password</string>
+    <string name="msg_107">msg login success</string>
+    <string name="msg_108">msg user same nick</string>
+    <string name="msg_109">msg user update nick fail</string>
+    <string name="msg_110">msg user same password</string>
+    <string name="msg_111">msg user update password fail</string>
+    <string name="msg_112">msg location upload fail</string>
+    <string name="msg_113">msg location update fail</string>
+    <string name="msg_201">msg register upload avatar fail</string>
+    <string name="msg_202">msg upload avatar fail</string>
+    <string name="msg_301">msg contact firended</string>
+    <string name="msg_302">msg contact add fail</string>
+    <string name="msg_303">msg contact del fail</string>
+    <string name="msg_304">msg get contact all fail</string>
+    <string name="msg_305">msg get contact pages fail</string>
+    <string name="msg_401">msg group hxid exists</string>
+    <string name="msg_402">msg group create fail</string>
+    <string name="msg_403">msg group add member fail</string>
+    <string name="msg_404">msg group get members fail</string>
+    <string name="msg_405">msg group unkonw</string>
+    <string name="msg_406">msg group same name</string>
+    <string name="msg_407">msg group update name fail</string>
+    <string name="msg_408">msg group delete member fail</string>
+    <string name="msg_409">msg group delete members fail</string>
+    <string name="msg_410">msg group delete fail</string>
+    <string name="msg_411">msg group find by gourp id fail</string>
+    <string name="msg_412">msg group find by hx id fail</string>
+    <string name="msg_413">msg group find by user name fail</string>
+    <string name="msg_414">msg group find by group name fail</string>
+    <string name="msg_415">msg public group fail</string>
+    <string name="msg_501">msg location get fail</string>
+    <string name="msg_999">msg unknow</string>
     <string name="msg_captcha_has_sent">验证码已发送</string>
     <string name="msg_choose_few_person_red_packet">当前选定1人可领取，为专属红包</string>
     <string name="msg_error_page_hint">糟糕，好像哪里出了点问题！</string>
@@ -1064,16 +1101,16 @@
     <style name="HeadScale" parent="android:Theme.Dialog">
         <item name="android:windowAnimationStyle">@style/AnimHead</item>
         <item name="android:windowFrame">@null</item>
-        <!-- 边框 -->
+        
         <item name="android:windowIsFloating">true</item>
-        <!-- 是否浮现在activity之上 -->
+        
         <item name="android:windowIsTranslucent">true</item>
-        <!-- 半透明 -->
+        
         <item name="android:windowNoTitle">true</item>
-        <!-- 无标题 -->
+        
         <item name="android:windowBackground">@android:color/black</item>
         <item name="android:backgroundDimEnabled">false</item>
-        <!-- 模糊 -->
+        
     </style>
     <style name="LoadingProgressStyle" parent="@android:style/Widget.ProgressBar">
         <item name="android:indeterminateDrawable">@anim/rp_progress_loading</item>
@@ -1101,32 +1138,32 @@
     <style name="MyDialogStyleBottom" parent="android:Theme.Dialog">
         <item name="android:windowAnimationStyle">@style/AnimBottom</item>
         <item name="android:windowFrame">@null</item>
-        <!-- 边框 -->
+        
         <item name="android:windowIsFloating">true</item>
-        <!-- 是否浮现在activity之上 -->
+        
         <item name="android:windowIsTranslucent">true</item>
-        <!-- 半透明 -->
+        
         <item name="android:windowNoTitle">true</item>
-        <!-- 无标题 -->
+        
         <item name="android:windowBackground">@android:color/transparent</item>
-        <!-- 背景透明 -->
+        
         <item name="android:backgroundDimEnabled">true</item>
-        <!-- 模糊 -->
+        
     </style>
     <style name="MyDialogStyleTop" parent="android:Theme.Dialog">
         <item name="android:windowAnimationStyle">@style/AnimTop2</item>
         <item name="android:windowFrame">@null</item>
-        <!-- 边框 -->
+        
         <item name="android:windowIsFloating">true</item>
-        <!-- 是否浮现在activity之上 -->
+        
         <item name="android:windowIsTranslucent">true</item>
-        <!-- 半透明 -->
+        
         <item name="android:windowNoTitle">true</item>
-        <!-- 无标题 -->
+        
         <item name="android:windowBackground">@android:color/transparent</item>
-        <!-- 背景透明 -->
+        
         <item name="android:backgroundDimEnabled">false</item>
-        <!-- 模糊 -->
+        
     </style>
     <style name="PayTypeIconStyle">
         <item name="android:layout_width">wrap_content</item>
@@ -1293,6 +1330,14 @@
         <item name="android:includeFontPadding">false</item>
         <item name="android:background">@drawable/ease_edit_text_bg</item>
     </style>
+    <style name="btn_titleStyle">
+        <item name="android:layout_width">70dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:background">@drawable/btn_bg_green</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
     <style name="chat_content_date_style">
         <item name="android:minHeight">50dp</item>
         <item name="android:gravity">center</item>
@@ -1340,4 +1385,10 @@
         <item name="android:windowAnimationStyle">@style/AnimFade2</item>
     </style>
     <style name="nornal_style" parent="android:Theme.NoTitleBar"/>
+    <style name="txt_titleStyle1">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
 </resources>

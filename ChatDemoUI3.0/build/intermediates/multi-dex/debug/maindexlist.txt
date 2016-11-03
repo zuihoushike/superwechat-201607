@@ -16,6 +16,7 @@ org/apache/http/conn/params/ConnConnectionParamBean.class
 org/apache/http/client/protocol/RequestTargetAuthentication.class
 org/apache/http/impl/io/AbstractMessageWriter.class
 android/support/v4/media/session/MediaControllerCompat.class
+com/google/gson/JsonNull.class
 android/support/annotation/IdRes.class
 org/apache/commons/logging/impl/WeakHashtable.class
 org/apache/http/impl/client/DefaultHttpRequestRetryHandler.class
@@ -113,9 +114,10 @@ android/support/v4/media/session/MediaSessionCompat$ResultReceiverWrapper.class
 org/apache/http/client/protocol/RequestDefaultHeaders.class
 android/support/v4/app/TaskStackBuilder.class
 com/bumptech/glide/load/model/GenericLoaderFactory.class
+cn/ypxy/superwechat/SuperWeChatHelper.class
 org/apache/http/impl/AbstractHttpClientConnection.class
 org/apache/http/NoHttpResponseException.class
-cn/ypxy/superwechat/DemoApplication.class
+cn/ypxy/superwechat/SuperWeChatApplication.class
 android/support/v4/view/accessibility/AccessibilityNodeProviderCompat.class
 com/bumptech/glide/load/DecodeFormat.class
 org/apache/http/auth/AuthSchemeRegistry.class
@@ -194,7 +196,6 @@ android/support/annotation/MainThread.class
 android/support/v4/os/UserManagerCompat.class
 android/support/v4/app/ServiceCompat$StopForegroundFlags.class
 org/apache/http/impl/cookie/AbstractCookieSpec.class
-cn/ypxy/superwechat/DemoHelper.class
 org/apache/http/message/HeaderValueParser.class
 org/apache/http/client/methods/HttpHead.class
 android/support/annotation/MenuRes.class
@@ -226,6 +227,7 @@ com/easemob/redpacketui/recyclerview/widget/RecyclerView$ItemAnimator.class
 org/apache/http/impl/conn/tsccm/PoolEntryRequest.class
 android/support/annotation/AnyRes.class
 android/support/v4/view/ViewCompat$BaseViewCompatImpl.class
+com/google/gson/annotations/JsonAdapter.class
 android/support/v4/media/session/MediaSessionCompat$MediaSessionImplBase.class
 org/apache/http/impl/DefaultHttpResponseFactory.class
 butterknife/ButterKnife.class
@@ -442,8 +444,10 @@ org/apache/http/conn/scheme/PlainSocketFactory.class
 org/apache/http/impl/cookie/BestMatchSpec.class
 android/support/v4/media/RatingCompat$1.class
 android/support/v4/view/ViewCompat$JBViewCompatImpl.class
+com/google/gson/reflect/TypeToken.class
 org/apache/http/conn/ClientConnectionManager.class
 org/apache/http/entity/InputStreamEntity.class
+com/google/gson/annotations/SerializedName.class
 android/support/v4/media/MediaMetadataCompatApi21.class
 org/apache/http/message/BasicListHeaderIterator.class
 org/apache/http/client/params/HttpClientParams.class
@@ -518,6 +522,7 @@ android/support/annotation/RequiresPermission.class
 org/apache/http/impl/cookie/RFC2965DiscardAttributeHandler.class
 com/baidu/location/LocationClientOption.class
 org/apache/http/impl/client/AbstractAuthenticationHandler.class
+com/google/gson/annotations/Until.class
 org/apache/commons/logging/impl/Jdk14Logger.class
 org/apache/http/cookie/CookiePathComparator.class
 org/apache/http/client/HttpRequestRetryHandler.class
@@ -635,6 +640,7 @@ org/apache/http/HeaderElement.class
 org/apache/http/impl/cookie/BrowserCompatSpec.class
 android/support/v4/view/ViewPager$2.class
 org/apache/http/MethodNotSupportedException.class
+com/google/gson/annotations/Since.class
 android/support/v4/media/RatingCompat.class
 android/support/v4/view/accessibility/AccessibilityNodeInfoCompat.class
 org/apache/http/conn/EofSensorInputStream.class
@@ -719,6 +725,7 @@ org/apache/http/UnsupportedHttpVersionException.class
 org/apache/http/conn/OperatedClientConnection.class
 org/apache/http/protocol/SyncBasicHttpContext.class
 org/apache/http/protocol/DefaultedHttpContext.class
+com/google/gson/annotations/Expose.class
 android/support/v4/media/MediaBrowserCompat$MediaBrowserImplApi24.class
 butterknife/BindFloat.class
 android/support/v4/media/MediaBrowserCompat$MediaBrowserImplApi23.class

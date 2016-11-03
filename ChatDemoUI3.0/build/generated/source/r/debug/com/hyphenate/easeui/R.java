@@ -769,10 +769,10 @@ public final class R {
 		public static final int MyDialogStyleBottom = 0x7f090026;
 		public static final int MyDialogStyleTop = 0x7f090027;
 		public static final int bottom_line_edit_text_style = 0x7f09003b;
-		public static final int chat_content_date_style = 0x7f09003c;
-		public static final int chat_text_date_style = 0x7f09003d;
-		public static final int chat_text_name_style = 0x7f09003e;
-		public static final int devide_line_eee = 0x7f090040;
+		public static final int chat_content_date_style = 0x7f09003d;
+		public static final int chat_text_date_style = 0x7f09003e;
+		public static final int chat_text_name_style = 0x7f09003f;
+		public static final int devide_line_eee = 0x7f090041;
 		public static final int horizontal_slide = 0x7f090001;
 		public static final int nornal_style = 0x7f090002;
 	}
