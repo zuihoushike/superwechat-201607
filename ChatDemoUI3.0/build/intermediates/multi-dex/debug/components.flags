@@ -13,60 +13,60 @@
 -printconfiguration 'F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\multi-dex\debug\components.flags'
 
 
--keep class com.hyphenate.chatuidemo.DemoApplication {
+-keep class cn.ypxy.superwechat.DemoApplication {
     <init>();
     void attachBaseContext(android.content.Context);
 }
 
--keep class com.hyphenate.chatuidemo.ui.MainActivity {
+-keep class cn.ypxy.superwechat.ui.MainActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.SplashActivity {
+-keep class cn.ypxy.superwechat.ui.SplashActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.LoginActivity {
+-keep class cn.ypxy.superwechat.ui.LoginActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.RegisterActivity {
+-keep class cn.ypxy.superwechat.ui.RegisterActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.ChatActivity {
+-keep class cn.ypxy.superwechat.ui.ChatActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.AddContactActivity {
+-keep class cn.ypxy.superwechat.ui.AddContactActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.GroupDetailsActivity {
+-keep class cn.ypxy.superwechat.ui.GroupDetailsActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.GroupsActivity {
+-keep class cn.ypxy.superwechat.ui.GroupsActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.ChatRoomDetailsActivity {
+-keep class cn.ypxy.superwechat.ui.ChatRoomDetailsActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.NewGroupActivity {
+-keep class cn.ypxy.superwechat.ui.NewGroupActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.ExitGroupDialog {
+-keep class cn.ypxy.superwechat.ui.ExitGroupDialog {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.GroupPickContactsActivity {
+-keep class cn.ypxy.superwechat.ui.GroupPickContactsActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.PickAtUserActivity {
+-keep class cn.ypxy.superwechat.ui.PickAtUserActivity {
     <init>();
 }
 
@@ -74,15 +74,15 @@
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.NewFriendsMsgActivity {
+-keep class cn.ypxy.superwechat.ui.NewFriendsMsgActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.ForwardMessageActivity {
+-keep class cn.ypxy.superwechat.ui.ForwardMessageActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.ContextMenuActivity {
+-keep class cn.ypxy.superwechat.ui.ContextMenuActivity {
     <init>();
 }
 
@@ -94,43 +94,43 @@
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.BlacklistActivity {
+-keep class cn.ypxy.superwechat.ui.BlacklistActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.PublicGroupsActivity {
+-keep class cn.ypxy.superwechat.ui.PublicGroupsActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.PublicChatRoomsActivity {
+-keep class cn.ypxy.superwechat.ui.PublicChatRoomsActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.VoiceCallActivity {
+-keep class cn.ypxy.superwechat.ui.VoiceCallActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.VideoCallActivity {
+-keep class cn.ypxy.superwechat.ui.VideoCallActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.GroupSimpleDetailActivity {
+-keep class cn.ypxy.superwechat.ui.GroupSimpleDetailActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.GroupBlacklistActivity {
+-keep class cn.ypxy.superwechat.ui.GroupBlacklistActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.GroupSearchMessageActivity {
+-keep class cn.ypxy.superwechat.ui.GroupSearchMessageActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.PublicGroupsSeachActivity {
+-keep class cn.ypxy.superwechat.ui.PublicGroupsSeachActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.EditActivity {
+-keep class cn.ypxy.superwechat.ui.EditActivity {
     <init>();
 }
 
@@ -138,31 +138,31 @@
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.ImageGridActivity {
+-keep class cn.ypxy.superwechat.ui.ImageGridActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.RecorderVideoActivity {
+-keep class cn.ypxy.superwechat.ui.RecorderVideoActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.DiagnoseActivity {
+-keep class cn.ypxy.superwechat.ui.DiagnoseActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.OfflinePushNickActivity {
+-keep class cn.ypxy.superwechat.ui.OfflinePushNickActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.RobotsActivity {
+-keep class cn.ypxy.superwechat.ui.RobotsActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.UserProfileActivity {
+-keep class cn.ypxy.superwechat.ui.UserProfileActivity {
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.ui.SetServersActivity {
+-keep class cn.ypxy.superwechat.ui.SetServersActivity {
     <init>();
 }
 
@@ -198,7 +198,7 @@
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.receiver.StartServiceReceiver {
+-keep class cn.ypxy.superwechat.receiver.StartServiceReceiver {
     <init>();
 }
 
@@ -210,7 +210,7 @@
     <init>();
 }
 
--keep class com.hyphenate.chatuidemo.receiver.GCMPushBroadCast {
+-keep class cn.ypxy.superwechat.receiver.GCMPushBroadCast {
     <init>();
 }
 

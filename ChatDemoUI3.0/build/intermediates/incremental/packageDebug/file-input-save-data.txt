@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Nov 03 09:29:23 CST 2016
+#Thu Nov 03 11:20:22 CST 2016
 835.base=F\:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\resources-debug.ap_
 100.set=JAVA_RESOURCE
 57.file=F\:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\rp_no_verify_identity.png

@@ -44,7 +44,6 @@
         android:protectionLevel="signature" />
 
     <uses-permission android:name="cn.ypxy.superchat.permission.MIPUSH_RECEIVE" />
-
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
@@ -57,7 +56,7 @@
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustPan"></activity>
+            android:windowSoftInputMode="adjustPan" />
 
         <!-- 开屏页 -->
         <activity
@@ -76,62 +75,62 @@
             android:name="cn.ypxy.superwechat.ui.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustResize|stateVisible"></activity>
+            android:windowSoftInputMode="adjustResize|stateVisible" />
 
         <!-- 注册 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.RegisterActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustResize|stateVisible"></activity>
+            android:windowSoftInputMode="adjustResize|stateVisible" />
         <!-- 聊天页面 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.ChatActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustResize"></activity>
+            android:windowSoftInputMode="adjustResize" />
         <!-- 添加好友 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.AddContactActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="stateVisible"></activity>
+            android:windowSoftInputMode="stateVisible" />
         <!-- 群组详情 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.GroupDetailsActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
         <!-- 群组列表 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.GroupsActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustPan"></activity>
+            android:windowSoftInputMode="adjustPan" />
 
         <!-- 聊天室详情 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.ChatRoomDetailsActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
 
         <!-- 新建群组 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.NewGroupActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustPan"></activity>
+            android:windowSoftInputMode="adjustPan" />
         <!-- 退出群组提示框 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.ExitGroupDialog"
             android:screenOrientation="portrait"
-            android:theme="@style/MyDialogStyleBottom"></activity>
+            android:theme="@style/MyDialogStyleBottom" />
         <!-- 群组选人 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.GroupPickContactsActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustPan"></activity>
+            android:windowSoftInputMode="adjustPan" />
         <activity
             android:name="cn.ypxy.superwechat.ui.PickAtUserActivity"
             android:screenOrientation="portrait"
@@ -140,75 +139,75 @@
         <activity
             android:name="com.hyphenate.easeui.ui.EaseBaiduMapActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
 
         <!-- 新的朋友邀请消息页面 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.NewFriendsMsgActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
         <!-- 转发消息用户列表页面 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.ForwardMessageActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustPan"></activity>
+            android:windowSoftInputMode="adjustPan" />
         <!-- 自定义的contextmenu -->
         <activity
             android:name="cn.ypxy.superwechat.ui.ContextMenuActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/MyDialogStyle"></activity>
+            android:theme="@style/MyDialogStyle" />
         <!-- 显示下载大图页面 -->
         <activity
             android:name="com.hyphenate.easeui.ui.EaseShowBigImageActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
         <!-- 下载文件 -->
         <activity
             android:name="com.hyphenate.easeui.ui.EaseShowNormalFileActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
         <!-- 黑名单 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.BlacklistActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
 
         <!-- 公开的群聊列表 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.PublicGroupsActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustPan"></activity>
+            android:windowSoftInputMode="adjustPan" />
         <activity
             android:name="cn.ypxy.superwechat.ui.PublicChatRoomsActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustPan"></activity>
+            android:windowSoftInputMode="adjustPan" />
 
         <!-- 语音通话 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.VoiceCallActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
-            android:theme="@style/nornal_style"></activity>
+            android:theme="@style/nornal_style" />
         <!-- 视频通话 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.VideoCallActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
         <!-- 群聊简单信息 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.GroupSimpleDetailActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
         <!-- 群组黑名单用户列表 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.GroupBlacklistActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
         <activity
             android:name="cn.ypxy.superwechat.ui.GroupSearchMessageActivity"
             android:screenOrientation="portrait"
@@ -217,41 +216,41 @@
         <activity
             android:name="cn.ypxy.superwechat.ui.PublicGroupsSeachActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"></activity>
+            android:theme="@style/horizontal_slide" />
         <activity
             android:name="cn.ypxy.superwechat.ui.EditActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="stateVisible"></activity>
+            android:windowSoftInputMode="stateVisible" />
         <activity
             android:name="com.hyphenate.easeui.ui.EaseShowVideoActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <!-- choose video -->
         <activity
             android:name="cn.ypxy.superwechat.ui.ImageGridActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
             android:name="cn.ypxy.superwechat.ui.RecorderVideoActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <!-- upload error log -->
         <activity
             android:name="cn.ypxy.superwechat.ui.DiagnoseActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
 
         <!-- iOS offline push nick -->
         <activity
             android:name="cn.ypxy.superwechat.ui.OfflinePushNickActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
         <!-- robots list -->
         <activity
             android:name="cn.ypxy.superwechat.ui.RobotsActivity"
@@ -263,11 +262,10 @@
             android:name="cn.ypxy.superwechat.ui.UserProfileActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide" />
-
-        <activity android:name="cn.ypxy.superwechat.ui.SetServersActivity"
+        <activity
+            android:name="cn.ypxy.superwechat.ui.SetServersActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"
-            />
+            android:theme="@style/horizontal_slide" />
 
         <!-- 红包相关Activity start -->
         <!-- 发红包 -->
@@ -346,7 +344,7 @@
 
         <service
             android:name="com.hyphenate.chat.EMGCMListenerService"
-            android:exported="false"></service>
+            android:exported="false" />
 
         <receiver
             android:name="cn.ypxy.superwechat.receiver.GCMPushBroadCast"
@@ -420,17 +418,17 @@
         <!-- PushSDK:Push服务 -->
         <service
             android:name="com.huawei.android.pushagent.PushService"
-            android:process=":pushservice"></service>
+            android:process=":pushservice" />
 
         <!-- huawei push end -->
 
         <service
             android:name="com.umeng.update.net.DownloadingService"
-            android:process=":DownloadingService"></service>
+            android:process=":DownloadingService" />
 
         <activity
             android:name="com.umeng.update.UpdateDialogActivity"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar"></activity>
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <!-- 设置环信应用的appkey -->
         <meta-data
@@ -463,7 +461,7 @@
         <!-- umeng appkey，可忽略 -->
         <meta-data
             android:name="UMENG_APPKEY"
-            android:value="56aefe07e0f55a250d001a7c"></meta-data>
+            android:value="56aefe07e0f55a250d001a7c" />
         <meta-data
             android:name="UMENG_CHANNEL"
             android:value="hyphenate" />
@@ -471,6 +469,7 @@
             android:name="com.baidu.lbsapi.API_KEY"
             android:value="3ecea51f560650b1ed8a4b99808f52e8" />
 
+        <activity android:name="cn.ypxy.superwechat.ui.GuideActivity"></activity>
     </application>
 
 </manifest>
