@@ -10,639 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b2fb827-f8c6-4d1b-bced-ad963bbeb86a" name="Default" comment="项目资源带入">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/arm64-v8a/libBaiduMapSDK_base_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/arm64-v8a/libBaiduMapSDK_map_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/arm64-v8a/libBaiduMapSDK_util_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/arm64-v8a/libhyphenate.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/arm64-v8a/libhyphenate_av.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/arm64-v8a/liblocSDK7.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/armeabi/libBaiduMapSDK_base_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/armeabi/libBaiduMapSDK_map_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/armeabi/libBaiduMapSDK_util_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/armeabi/libhyphenate.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/armeabi/libhyphenate_av.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/armeabi/liblocSDK7.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/x86/libhyphenate.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/jni/x86/libhyphenate_av.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/libs/BaiduLBS_Android.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/libs/HwPush_SDK_V2705_nomap.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/libs/MiPush_SDK_Client_2_2_19.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/libs/glide-3.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/libs/google-play-services.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/libs/hyphenatechat_3.1.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/libs/org.apache.http.legacy.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/release/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/androidTest/debug/com/hyphenate/easeui/test/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/EaseConstant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseContactAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseContactAdapter$MyFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseContactAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseContactAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseConversationAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseConversationAdapter$ConversationFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseConversationAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseConversationAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseExpressionPagerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseMessageAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseMessageAdapter$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EaseMessageAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EmojiconGridAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/adapter/EmojiconPagerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/controller/EaseUI$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/controller/EaseUI$DefaultSettingsProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/controller/EaseUI$EaseEmojiconInfoProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/controller/EaseUI$EaseSettingsProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/controller/EaseUI$EaseUserProfileProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/controller/EaseUI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/domain/EaseEmojicon$Type.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/domain/EaseEmojicon.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/domain/EaseEmojiconGroupEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/domain/EaseUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EaseAtMessageHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EaseDefaultEmojiconDatas.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EaseImageCache$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EaseImageCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EaseNotifier$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EaseNotifier$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EaseNotifier$EaseNotificationInfoProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EaseNotifier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EasePreferenceManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EaseVoiceRecorder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/model/EaseVoiceRecorder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseBaiduMapActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseBaiduMapActivity$BaiduSDKReceiver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseBaiduMapActivity$MyLocationListenner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseBaiduMapActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseBaseActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseBaseFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$5$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$6$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$7$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$7$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$EaseChatFragmentHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$GroupListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$GroupListener$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$GroupListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment$MyItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseChatFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$5$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$5$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$7$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$7$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment$EaseContactListItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseContactListFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseConversationListFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseConversationListFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseConversationListFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseConversationListFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseConversationListFragment$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseConversationListFragment$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseConversationListFragment$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseConversationListFragment$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseConversationListFragment$EaseConversationListItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseConversationListFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseGroupRemoveListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowBigImageActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowBigImageActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowNormalFileActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowVideoActivity$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowVideoActivity$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowVideoActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/ui/EaseShowVideoActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/utils/EaseCommonUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/utils/EaseCommonUtils$1GetInitialLetter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/utils/EaseCommonUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/utils/EaseImageUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/utils/EaseLoadLocalBigImgTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/utils/EaseSmileUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/utils/EaseUserUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseAlertDialog$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseAlertDialog$AlertDialogUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseAlertDialog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatExtendMenu$ChatMenuItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatExtendMenu$ChatMenuItemModel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatExtendMenu$EaseChatExtendMenuItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatExtendMenu$ItemAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatExtendMenu$ItemAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatExtendMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatInputMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatInputMenu$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatInputMenu$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatInputMenu$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatInputMenu$ChatInputMenuListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatInputMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatMessageList$MessageListItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatMessageList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatPrimaryMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatPrimaryMenu$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatPrimaryMenu$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatPrimaryMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatPrimaryMenuBase$EaseChatPrimaryMenuListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseChatPrimaryMenuBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseContactList$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseContactList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseConversationList$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseConversationList$EaseConversationListHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseConversationList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseExpandGridView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseSidebar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseSwitchButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseTitleBar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseVoiceRecorderView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseVoiceRecorderView$EaseVoiceRecorderCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/EaseVoiceRecorderView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowBigExpression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowFile$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowFile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowImage$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowImage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowImage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowLocation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowLocation$MapClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowLocation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowText$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowText.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowVideo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowVideo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoicePlayClickListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoicePlayClickListener$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoicePlayClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/chatrow/EaseCustomChatRowProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconIndicatorView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenu$EmojiconPagerViewListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenuBase$EaseEmojiconMenuListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenuBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView$EaseEmojiconPagerViewListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView$EmojiPagerChangeListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar$EaseScrollTabBarItemClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/Compat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/EasePhotoView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/IPhotoView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$AnimatedZoomRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$FlingRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$OnMatrixChangedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$OnPhotoTapListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$OnViewTapListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/SDK16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/ScrollerProxy$GingerScroller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/ScrollerProxy$PreGingerScroller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/ScrollerProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$CupcakeDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$EclairDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$FroyoDetector$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$FroyoDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$OnGestureListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/debug/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/BaiduLBS_Android.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/HwPush_SDK_V2705_nomap.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/MiPush_SDK_Client_2_2_19.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/arm64-v8a/libBaiduMapSDK_base_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/arm64-v8a/libBaiduMapSDK_map_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/arm64-v8a/libBaiduMapSDK_util_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/arm64-v8a/libhyphenate.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/arm64-v8a/libhyphenate_av.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/arm64-v8a/liblocSDK7.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/armeabi/libBaiduMapSDK_base_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/armeabi/libBaiduMapSDK_map_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/armeabi/libBaiduMapSDK_util_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/armeabi/libhyphenate.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/armeabi/libhyphenate_av.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/armeabi/liblocSDK7.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/glide-3.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/google-play-services.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/hyphenatechat_3.1.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/org.apache.http.legacy.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/x86/libhyphenate.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/debug/x86/libhyphenate_av.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/jniLibs/release/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJavaRes/debug/jars/2/3/main.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/arm64-v8a/libBaiduMapSDK_base_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/arm64-v8a/libBaiduMapSDK_map_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/arm64-v8a/libBaiduMapSDK_util_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/arm64-v8a/libhyphenate.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/arm64-v8a/libhyphenate_av.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/arm64-v8a/liblocSDK7.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/armeabi/libBaiduMapSDK_base_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/armeabi/libBaiduMapSDK_map_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/armeabi/libBaiduMapSDK_util_v4_0_0.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/armeabi/libhyphenate.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/armeabi/libhyphenate_av.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/armeabi/liblocSDK7.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/x86/libhyphenate.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/3/main/lib/x86/libhyphenate_av.so" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/I.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../easeui/libs/android-support-v4.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/BuildConfig.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/EaseConstant.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/EaseConstant.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$anim.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$attr.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$color.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$dimen.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$drawable.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$id.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$layout.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$string.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$style.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$styleable.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseContactAdapter$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseContactAdapter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseContactAdapter$MyFilter.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseContactAdapter$MyFilter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseContactAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseContactAdapter$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseContactAdapter.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseContactAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseConversationAdapter$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseConversationAdapter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseConversationAdapter$ConversationFilter.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseConversationAdapter$ConversationFilter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseConversationAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseConversationAdapter$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseConversationAdapter.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseConversationAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseExpressionPagerAdapter.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseExpressionPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseMessageAdapter$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseMessageAdapter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseMessageAdapter$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseMessageAdapter$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseMessageAdapter.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EaseMessageAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EmojiconGridAdapter.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EmojiconGridAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EmojiconPagerAdapter.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/adapter/EmojiconPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI$DefaultSettingsProvider.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI$DefaultSettingsProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI$EaseEmojiconInfoProvider.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI$EaseEmojiconInfoProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI$EaseSettingsProvider.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI$EaseSettingsProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI$EaseUserProfileProvider.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI$EaseUserProfileProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/controller/EaseUI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/domain/EaseEmojicon$Type.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/domain/EaseEmojicon$Type.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/domain/EaseEmojicon.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/domain/EaseEmojicon.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/domain/EaseEmojiconGroupEntity.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/domain/EaseEmojiconGroupEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/domain/EaseUser.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/domain/EaseUser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseAtMessageHelper.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseAtMessageHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseDefaultEmojiconDatas.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseDefaultEmojiconDatas.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseImageCache$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseImageCache$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseImageCache.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseImageCache.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseNotifier$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseNotifier$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseNotifier$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseNotifier$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseNotifier$EaseNotificationInfoProvider.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseNotifier$EaseNotificationInfoProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseNotifier.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseNotifier.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EasePreferenceManager.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EasePreferenceManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseVoiceRecorder$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseVoiceRecorder$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseVoiceRecorder.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/model/EaseVoiceRecorder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaiduMapActivity$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaiduMapActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaiduMapActivity$BaiduSDKReceiver.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaiduMapActivity$BaiduSDKReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaiduMapActivity$MyLocationListenner.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaiduMapActivity$MyLocationListenner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaiduMapActivity.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaiduMapActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaseActivity.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaseActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaseFragment.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseBaseFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$1$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$10.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$11.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$3.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$4.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$5$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$5$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$5.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$6$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$6$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$6.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$7$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$7$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$7$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$7$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$7.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$8.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$9.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$EaseChatFragmentHelper.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$EaseChatFragmentHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$GroupListener$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$GroupListener$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$GroupListener$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$GroupListener$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$GroupListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$GroupListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$MyItemClickListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment$MyItemClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseChatFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$3.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$4.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$5$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$5$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$5$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$5$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$5.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$6.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$7$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$7$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$7$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$7$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$7.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$EaseContactListItemClickListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment$EaseContactListItemClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseContactListFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$3.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$4.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$5.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$6.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$7.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$8.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$EaseConversationListItemClickListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment$EaseConversationListItemClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseConversationListFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseGroupRemoveListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseGroupRemoveListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2$3.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowBigImageActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1$3.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowNormalFileActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowNormalFileActivity.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowNormalFileActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowVideoActivity$1$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowVideoActivity$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowVideoActivity$1$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowVideoActivity$1$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowVideoActivity$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowVideoActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowVideoActivity.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/ui/EaseShowVideoActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseCommonUtils$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseCommonUtils$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseCommonUtils$1GetInitialLetter.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseCommonUtils$1GetInitialLetter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseCommonUtils.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseCommonUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseImageUtils.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseImageUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseLoadLocalBigImgTask.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseLoadLocalBigImgTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseSmileUtils.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseSmileUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseUserUtils.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/utils/EaseUserUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseAlertDialog$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseAlertDialog$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseAlertDialog$AlertDialogUser.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseAlertDialog$AlertDialogUser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseAlertDialog.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseAlertDialog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu$ChatMenuItem.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu$ChatMenuItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu$ChatMenuItemModel.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu$ChatMenuItemModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu$EaseChatExtendMenuItemClickListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu$EaseChatExtendMenuItemClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu$ItemAdapter$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu$ItemAdapter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu$ItemAdapter.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu$ItemAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatExtendMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu$3.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu$4.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu$ChatInputMenuListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu$ChatInputMenuListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatInputMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatMessageList$MessageListItemClickListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatMessageList$MessageListItemClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatMessageList.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatMessageList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenu$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenu$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenu$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenu$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenu$3.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenu$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenu.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenuBase$EaseChatPrimaryMenuListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenuBase$EaseChatPrimaryMenuListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenuBase.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseChatPrimaryMenuBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseContactList$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseContactList$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseContactList.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseContactList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseConversationList$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseConversationList$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseConversationList$EaseConversationListHelper.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseConversationList$EaseConversationListHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseConversationList.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseConversationList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseExpandGridView.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseExpandGridView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseImageView.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseImageView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseSidebar.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseSidebar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseSwitchButton.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseSwitchButton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseTitleBar.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseTitleBar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseVoiceRecorderView$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseVoiceRecorderView$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseVoiceRecorderView$EaseVoiceRecorderCallback.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseVoiceRecorderView$EaseVoiceRecorderCallback.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseVoiceRecorderView.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/EaseVoiceRecorderView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$1$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$2$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$3.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$4.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$5.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$6.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$7.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$8.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRow.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowBigExpression.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowBigExpression.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowFile$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowFile$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowFile.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowImage$1$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowImage$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowImage$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowImage$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowImage.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowImage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowLocation$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowLocation$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowLocation$MapClickListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowLocation$MapClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowLocation.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowLocation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowText$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowText$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowText.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowText.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVideo$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVideo$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVideo.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVideo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoice.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoice.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoicePlayClickListener$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoicePlayClickListener$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoicePlayClickListener$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoicePlayClickListener$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoicePlayClickListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoicePlayClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseCustomChatRowProvider.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/chatrow/EaseCustomChatRowProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconIndicatorView.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconIndicatorView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenu$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenu$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenu$EmojiconPagerViewListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenu$EmojiconPagerViewListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenu.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenuBase$EaseEmojiconMenuListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenuBase$EaseEmojiconMenuListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenuBase.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenuBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView$EaseEmojiconPagerViewListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView$EaseEmojiconPagerViewListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView$EmojiPagerChangeListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView$EmojiPagerChangeListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar$EaseScrollTabBarItemClickListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar$EaseScrollTabBarItemClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/emojicon/EaseEmojiconScrollTabBar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/Compat.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/Compat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/EasePhotoView.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/EasePhotoView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/IPhotoView.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/IPhotoView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$2.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$AnimatedZoomRunnable.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$AnimatedZoomRunnable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$FlingRunnable.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$FlingRunnable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$OnMatrixChangedListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$OnMatrixChangedListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$OnPhotoTapListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$OnPhotoTapListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$OnViewTapListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher$OnViewTapListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/PhotoViewAttacher.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/SDK16.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/SDK16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/ScrollerProxy$GingerScroller.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/ScrollerProxy$GingerScroller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/ScrollerProxy$PreGingerScroller.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/ScrollerProxy$PreGingerScroller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/ScrollerProxy.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/ScrollerProxy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$CupcakeDetector.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$CupcakeDetector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$EclairDetector.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$EclairDetector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$FroyoDetector$1.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$FroyoDetector$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$FroyoDetector.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$FroyoDetector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$OnGestureListener.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector$OnGestureListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector.class" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/classes/release/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_appitem_del_btn_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_appitem_del_btn_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_appitem_del_btn_pressed.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_appitem_del_btn_pressed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chat_face_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chat_face_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chat_face_pressed.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chat_face_pressed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatfrom_voice_playing_f1.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatfrom_voice_playing_f1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatfrom_voice_playing_f2.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatfrom_voice_playing_f2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_biaoqing_btn_enable.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_biaoqing_btn_enable.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_biaoqing_btn_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_biaoqing_btn_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_setmode_keyboard_btn_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_setmode_keyboard_btn_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_setmode_keyboard_btn_pressed.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_setmode_keyboard_btn_pressed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_setmode_voice_btn_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_setmode_voice_btn_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_setmode_voice_btn_pressed.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatting_setmode_voice_btn_pressed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatto_voice_playing.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatto_voice_playing.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatto_voice_playing_f1.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatto_voice_playing_f1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatto_voice_playing_f2.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatto_voice_playing_f2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatto_voice_playing_f3.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatto_voice_playing_f3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_contact_list_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_contact_list_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_contact_list_selected.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_contact_list_selected.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_conversation_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_conversation_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_conversation_selected.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_conversation_selected.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_default_avatar.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_default_avatar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_dx_checkbox_gray_on.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_dx_checkbox_gray_on.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_dx_checkbox_off.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_dx_checkbox_off.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_dx_checkbox_on.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_dx_checkbox_on.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_groups_icon.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_groups_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_icon_marka.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_icon_marka.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_input_bar_bg_normal.9.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_input_bar_bg_normal.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_location_msg.9.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_location_msg.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_listitem_disable.9.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_listitem_disable.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_listitem_grey_normal.9.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_listitem_grey_normal.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_listitem_pressed.9.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_listitem_pressed.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_listitem_simple.9.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_listitem_simple.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_title_back.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_title_back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_title_remove.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_title_remove.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_msg_state_fail_resend.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_msg_state_fail_resend.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_msg_state_fail_resend_pressed.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_msg_state_fail_resend_pressed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_new_friends_icon.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_new_friends_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_search_bar_icon_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_search_bar_icon_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_search_clear_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_search_clear_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_search_clear_pressed.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_search_clear_pressed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_settings_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_settings_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_settings_selected.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_settings_selected.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_show_head_toast_bg.9.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_show_head_toast_bg.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_to_group_details_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_to_group_details_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_type_select_btn_nor.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_type_select_btn_nor.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_type_select_btn_pressed.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_type_select_btn_pressed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_unread_count_bg.9.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_unread_count_bg.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_video_download_btn_nor.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_video_download_btn_nor.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_video_play_btn_small_nor.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_video_play_btn_small_nor.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_video_recorder_start_btn.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_video_recorder_start_btn.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_video_recorder_stop_btn.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_video_recorder_stop_btn.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_voice_unread.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_voice_unread.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_24.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_24.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_25.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_25.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_26.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_26.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_27.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_27.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_28.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_28.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_29.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_29.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_32.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_33.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_33.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_blue_add.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_blue_add.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_image_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_image_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_image_pressed.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_image_pressed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_item_file.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_item_file.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_location_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_location_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_location_pressed.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_location_pressed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_takepic_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_takepic_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_takepic_pressed.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_takepic_pressed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_video_call_self.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_video_call_self.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_voice_call_self.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chat_voice_call_self.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chatting_biaoqing_btn_enable.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chatting_biaoqing_btn_enable.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chatting_biaoqing_btn_normal.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_chatting_biaoqing_btn_normal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_close_icon.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_close_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_default_avatar.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_default_avatar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_default_expression.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_default_expression.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_delete_expression.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_delete_expression.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_dot_emojicon_selected.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_dot_emojicon_selected.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_dot_emojicon_unselected.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_dot_emojicon_unselected.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_group_icon.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_group_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_groups_icon.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_groups_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_mm_title_remove.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_mm_title_remove.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_new_friends_icon.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_new_friends_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_open_icon.png" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ease_open_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/outputs/aar/EaseUI-debug.aar" afterPath="$PROJECT_DIR$/../easeui/build/outputs/aar/EaseUI-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/outputs/aar/EaseUI-release.aar" afterPath="$PROJECT_DIR$/../easeui/build/outputs/aar/EaseUI-release.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/EaseUI.iml" afterPath="$PROJECT_DIR$/../easeui/EaseUI.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build.gradle" afterPath="$PROJECT_DIR$/../easeui/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/manifests/aapt/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/manifests/aapt/release/AndroidManifest.xml" />
     </list>
     <ignored path="ChatDemoUI3.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -676,7 +47,43 @@
     <favorites_list name="ChatDemoUI3.0" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RegisterActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RegisterActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="99" column="28" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="428" column="0" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="I.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/I.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -3164,7 +2571,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/widget/ContactItemView.java" />
         <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContextMenuActivity.java" />
         <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ConversationListFragment.java" />
         <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/EditActivity.java" />
@@ -3202,7 +2608,6 @@
         <option value="$PROJECT_DIR$/res/values-w820dp/dimens.xml" />
         <option value="$PROJECT_DIR$/res/values/em_dimens.xml" />
         <option value="$PROJECT_DIR$/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/values/em_colors.xml" />
         <option value="$PROJECT_DIR$/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/build/intermediates/res/merged/debug/values/values.xml" />
@@ -3215,14 +2620,16 @@
         <option value="$PROJECT_DIR$/redpacketlibrary/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/../easeui/build.gradle" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/I.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="566" />
+    <option name="y" value="2" />
+    <option name="width" value="1370" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -3261,15 +2668,15 @@
               <option name="myItemId" value="ChatDemoUI3.0" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="ChatDemoUI3.0" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatDemoUI3.0" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -3280,6 +2687,14 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ChatDemoUI3.0" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="superwechat" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -3304,6 +2719,7 @@
       <recent name="cn.ypxy.superwechat.ui" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\SuperWeChat\ChatDemoUI3.0\src\cn\ypxy\superwechat" />
       <recent name="F:\SuperWeChat\ChatDemoUI3.0\src\cn\ypxy\superwechat\utils" />
       <recent name="F:\SuperWeChat\ChatDemoUI3.0\res\values" />
     </key>
@@ -3675,7 +3091,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="566" y="2" width="1370" height="772" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3695,7 +3111,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2397882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24198474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -3736,13 +3152,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/OfflinePushNickActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PublicChatRoomsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -3754,13 +3163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="99" column="47" selection-start-line="99" selection-start-column="47" selection-end-line="99" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RegisterActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -3972,17 +3374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="104" column="21" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/values/loading_styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -4100,6 +3491,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RegisterActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="99" column="28" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="428" column="0" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
           <folding />
         </state>
       </provider>
