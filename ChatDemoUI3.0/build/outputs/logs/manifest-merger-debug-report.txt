@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:2:1-477:12
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:2:1-476:12
 	package
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:4:5-39
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:4:5-32
 		INJECTED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml
 		INJECTED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml
 	android:versionName
@@ -113,696 +113,696 @@ ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:32:5-95
 	android:name
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:32:22-92
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:35:5-82
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:34:5-82
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:35:22-79
-permission#com.hyphenate.chatuidemo.permission.C2D_MESSAGE
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:37:5-39:47
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:34:22-79
+permission#cn.ypxy.superchat.permission.C2D_MESSAGE
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:36:5-38:47
 	android:protectionLevel
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:39:9-44
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:38:9-44
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:38:9-71
-uses-permission#com.hyphenate.chatuidemo.permission.C2D_MESSAGE
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:41:5-87
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:37:9-64
+uses-permission#cn.ypxy.superchat.permission.C2D_MESSAGE
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:40:5-80
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:41:22-84
-permission#com.hyphenate.chatuidemo.permission.MIPUSH_RECEIVE
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:43:5-45:47
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:40:22-77
+permission#cn.ypxy.superchat.permission.MIPUSH_RECEIVE
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:42:5-44:47
 	android:protectionLevel
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:45:9-44
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:44:9-44
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:44:9-74
-uses-permission#com.hyphenate.chatuidemo.permission.MIPUSH_RECEIVE
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:47:5-90
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:43:9-67
+uses-permission#cn.ypxy.superchat.permission.MIPUSH_RECEIVE
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:46:5-83
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:47:22-87
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:49:5-88
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:46:22-80
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:48:5-80
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:49:30-85
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:48:22-77
 application
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:51:5-475:19
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:50:5-474:19
 	android:label
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:55:9-41
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:54:9-41
 	android:allowBackup
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:53:9-35
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:52:9-35
 	android:icon
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:54:9-48
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:53:9-43
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:52:9-40
-activity#com.hyphenate.chatuidemo.ui.MainActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:56:9-61:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:51:9-59
+activity#cn.ypxy.superwechat.ui.MainActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:55:9-60:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:59:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:58:13-49
 	android:launchMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:58:13-44
-	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:61:13-52
-	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:60:13-52
-	android:name
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:57:13-44
-activity#com.hyphenate.chatuidemo.ui.SplashActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:64:9-73:20
-	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:66:13-49
+	android:windowSoftInputMode
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:60:13-52
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:67:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:59:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:65:13-46
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:56:13-63
+activity#cn.ypxy.superwechat.ui.SplashActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:63:9-72:20
+	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:65:13-49
+	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:66:13-52
+	android:name
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:64:13-65
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:68:13-72:29
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:67:13-71:29
 action#android.intent.action.MAIN
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:69:17-69
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:68:17-69
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:69:25-66
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:68:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:71:17-77
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:70:17-77
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:71:27-74
-activity#com.hyphenate.chatuidemo.ui.LoginActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:76:9-80:80
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:70:27-74
+activity#cn.ypxy.superwechat.ui.LoginActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:75:9-79:80
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:78:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:77:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:80:13-68
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:79:13-68
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:79:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:78:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:77:13-45
-activity#com.hyphenate.chatuidemo.ui.RegisterActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:83:9-87:80
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:76:13-64
+activity#cn.ypxy.superwechat.ui.RegisterActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:82:9-86:80
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:85:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:84:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:87:13-68
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:86:13-68
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:86:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:85:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:84:13-48
-activity#com.hyphenate.chatuidemo.ui.ChatActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:89:9-94:67
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:83:13-67
+activity#cn.ypxy.superwechat.ui.ChatActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:88:9-93:67
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:92:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:91:13-49
 	android:launchMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:91:13-44
-	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:94:13-55
-	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:93:13-52
-	android:name
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:90:13-44
-activity#com.hyphenate.chatuidemo.ui.AddContactActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:96:9-100:67
-	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:98:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:100:13-55
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:93:13-55
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:99:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:92:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:97:13-50
-activity#com.hyphenate.chatuidemo.ui.GroupDetailsActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:102:9-105:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:89:13-63
+activity#cn.ypxy.superwechat.ui.AddContactActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:95:9-99:67
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:104:13-49
-	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:105:13-52
-	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:103:13-52
-activity#com.hyphenate.chatuidemo.ui.GroupsActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:107:9-111:64
-	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:109:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:97:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:111:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:99:13-55
 	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:98:13-52
+	android:name
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:96:13-69
+activity#cn.ypxy.superwechat.ui.GroupDetailsActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:101:9-104:64
+	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:103:13-49
+	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:104:13-52
+	android:name
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:102:13-71
+activity#cn.ypxy.superwechat.ui.GroupsActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:106:9-110:64
+	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:108:13-49
+	android:windowSoftInputMode
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:110:13-52
-	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:108:13-46
-activity#com.hyphenate.chatuidemo.ui.ChatRoomDetailsActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:114:9-117:64
-	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:116:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:117:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:109:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:115:13-55
-activity#com.hyphenate.chatuidemo.ui.NewGroupActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:120:9-124:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:107:13-65
+activity#cn.ypxy.superwechat.ui.ChatRoomDetailsActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:113:9-116:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:122:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:115:13-49
+	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:116:13-52
+	android:name
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:114:13-74
+activity#cn.ypxy.superwechat.ui.NewGroupActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:119:9-123:64
+	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:121:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:124:13-52
-	android:theme
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:123:13-52
-	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:121:13-48
-activity#com.hyphenate.chatuidemo.ui.ExitGroupDialog
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:126:9-129:67
-	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:128:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:129:13-55
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:122:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:127:13-47
-activity#com.hyphenate.chatuidemo.ui.GroupPickContactsActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:131:9-135:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:120:13-67
+activity#cn.ypxy.superwechat.ui.ExitGroupDialog
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:125:9-128:67
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:133:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:127:13-49
+	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:128:13-55
+	android:name
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:126:13-66
+activity#cn.ypxy.superwechat.ui.GroupPickContactsActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:130:9-134:64
+	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:132:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:135:13-52
-	android:theme
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:134:13-52
-	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:132:13-57
-activity#com.hyphenate.chatuidemo.ui.PickAtUserActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:136:9-139:55
-	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:138:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:139:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:133:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:137:13-50
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:131:13-76
+activity#cn.ypxy.superwechat.ui.PickAtUserActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:135:9-138:55
+	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:137:13-49
+	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:138:13-52
+	android:name
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:136:13-69
 activity#com.hyphenate.easeui.ui.EaseBaiduMapActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:141:9-144:64
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:140:9-143:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:143:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:142:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:144:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:143:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:142:13-72
-activity#com.hyphenate.chatuidemo.ui.NewFriendsMsgActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:147:9-150:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:141:13-72
+activity#cn.ypxy.superwechat.ui.NewFriendsMsgActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:146:9-149:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:149:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:148:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:150:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:149:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:148:13-53
-activity#com.hyphenate.chatuidemo.ui.ForwardMessageActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:152:9-156:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:147:13-72
+activity#cn.ypxy.superwechat.ui.ForwardMessageActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:151:9-155:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:154:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:153:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:156:13-52
-	android:theme
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:155:13-52
+	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:154:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:153:13-54
-activity#com.hyphenate.chatuidemo.ui.ContextMenuActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:158:9-161:61
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:152:13-73
+activity#cn.ypxy.superwechat.ui.ContextMenuActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:157:9-160:61
 	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:159:13-49
+	android:theme
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:160:13-49
-	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:161:13-49
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:159:13-51
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:158:13-70
 activity#com.hyphenate.easeui.ui.EaseShowBigImageActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:163:9-166:64
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:162:9-165:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:165:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:164:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:166:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:165:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:164:13-76
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:163:13-76
 activity#com.hyphenate.easeui.ui.EaseShowNormalFileActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:168:9-171:64
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:167:9-170:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:170:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:169:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:171:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:170:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:169:13-78
-activity#com.hyphenate.chatuidemo.ui.BlacklistActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:173:9-176:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:168:13-78
+activity#cn.ypxy.superwechat.ui.BlacklistActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:172:9-175:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:175:13-49
-	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:176:13-52
-	android:name
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:174:13-49
-activity#com.hyphenate.chatuidemo.ui.PublicGroupsActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:179:9-183:64
-	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:181:13-49
-	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:183:13-52
 	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:175:13-52
+	android:name
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:173:13-68
+activity#cn.ypxy.superwechat.ui.PublicGroupsActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:178:9-182:64
+	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:180:13-49
+	android:windowSoftInputMode
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:182:13-52
-	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:180:13-52
-activity#com.hyphenate.chatuidemo.ui.PublicChatRoomsActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:184:9-188:64
-	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:186:13-49
-	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:188:13-52
 	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:181:13-52
+	android:name
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:179:13-71
+activity#cn.ypxy.superwechat.ui.PublicChatRoomsActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:183:9-187:64
+	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:185:13-49
+	android:windowSoftInputMode
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:187:13-52
-	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:185:13-55
-activity#com.hyphenate.chatuidemo.ui.VoiceCallActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:191:9-195:60
-	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:194:13-49
-	android:launchMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:193:13-44
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:195:13-48
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:186:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:192:13-49
-activity#com.hyphenate.chatuidemo.ui.VideoCallActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:197:9-202:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:184:13-74
+activity#cn.ypxy.superwechat.ui.VoiceCallActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:190:9-194:60
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:201:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:193:13-49
 	android:launchMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:200:13-44
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:192:13-44
+	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:194:13-48
+	android:name
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:191:13-68
+activity#cn.ypxy.superwechat.ui.VideoCallActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:196:9-201:64
+	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:200:13-49
+	android:launchMode
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:199:13-44
 	android:configChanges
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:199:13-74
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:198:13-74
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:202:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:201:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:198:13-49
-activity#com.hyphenate.chatuidemo.ui.GroupSimpleDetailActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:204:9-207:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:197:13-68
+activity#cn.ypxy.superwechat.ui.GroupSimpleDetailActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:203:9-206:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:206:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:205:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:207:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:206:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:205:13-57
-activity#com.hyphenate.chatuidemo.ui.GroupBlacklistActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:209:9-212:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:204:13-76
+activity#cn.ypxy.superwechat.ui.GroupBlacklistActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:208:9-211:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:211:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:210:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:212:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:211:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:210:13-54
-activity#com.hyphenate.chatuidemo.ui.GroupSearchMessageActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:213:9-217:58
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:209:13-73
+activity#cn.ypxy.superwechat.ui.GroupSearchMessageActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:212:9-216:58
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:215:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:214:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:217:13-55
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:216:13-55
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:216:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:215:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:214:13-58
-activity#com.hyphenate.chatuidemo.ui.PublicGroupsSeachActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:218:9-221:64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:213:13-77
+activity#cn.ypxy.superwechat.ui.PublicGroupsSeachActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:217:9-220:64
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:220:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:219:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:221:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:220:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:219:13-57
-activity#com.hyphenate.chatuidemo.ui.EditActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:222:9-226:67
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:218:13-76
+activity#cn.ypxy.superwechat.ui.EditActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:221:9-225:67
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:224:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:223:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:226:13-55
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:225:13-55
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:225:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:224:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:223:13-44
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:222:13-63
 activity#com.hyphenate.easeui.ui.EaseShowVideoActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:227:9-231:72
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:226:9-230:72
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:229:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:228:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:231:13-60
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:230:13-60
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:230:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:229:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:228:13-73
-activity#com.hyphenate.chatuidemo.ui.ImageGridActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:233:9-237:72
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:227:13-73
+activity#cn.ypxy.superwechat.ui.ImageGridActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:232:9-236:72
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:235:13-49
-	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:237:13-60
-	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:236:13-52
-	android:name
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:234:13-49
-activity#com.hyphenate.chatuidemo.ui.RecorderVideoActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:238:9-242:72
-	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:240:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:242:13-60
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:236:13-60
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:241:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:235:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:239:13-53
-activity#com.hyphenate.chatuidemo.ui.DiagnoseActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:244:9-248:72
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:233:13-68
+activity#cn.ypxy.superwechat.ui.RecorderVideoActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:237:9-241:72
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:246:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:239:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:248:13-60
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:241:13-60
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:247:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:240:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:245:13-48
-activity#com.hyphenate.chatuidemo.ui.OfflinePushNickActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:251:9-255:72
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:238:13-72
+activity#cn.ypxy.superwechat.ui.DiagnoseActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:243:9-247:72
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:253:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:245:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:255:13-60
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:247:13-60
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:254:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:246:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:252:13-55
-activity#com.hyphenate.chatuidemo.ui.RobotsActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:257:9-261:63
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:244:13-67
+activity#cn.ypxy.superwechat.ui.OfflinePushNickActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:250:9-254:72
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:259:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:252:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:261:13-60
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:254:13-60
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:260:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:253:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:258:13-46
-activity#com.hyphenate.chatuidemo.ui.UserProfileActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:263:9-266:55
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:251:13-74
+activity#cn.ypxy.superwechat.ui.RobotsActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:256:9-260:63
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:265:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:258:13-49
+	android:windowSoftInputMode
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:260:13-60
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:266:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:259:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:264:13-51
-activity#com.hyphenate.chatuidemo.ui.SetServersActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:268:9-271:15
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:257:13-65
+activity#cn.ypxy.superwechat.ui.UserProfileActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:262:9-265:55
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:269:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:264:13-49
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:270:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:265:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:268:19-56
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:263:13-70
+activity#cn.ypxy.superwechat.ui.SetServersActivity
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:267:9-270:15
+	android:screenOrientation
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:268:13-49
+	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:269:13-52
+	android:name
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:267:19-75
 activity#com.easemob.redpacketui.ui.activity.RPRedPacketActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:275:9-279:68
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:274:9-278:68
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:277:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:276:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:279:13-65
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:278:13-65
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:278:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:277:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:276:13-83
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:275:13-83
 activity#com.easemob.redpacketui.ui.activity.RPDetailActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:281:9-285:55
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:280:9-284:55
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:283:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:282:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:285:13-52
-	android:theme
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:284:13-52
+	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:283:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:282:13-80
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:281:13-80
 activity#com.easemob.redpacketui.ui.activity.RPRecordActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:287:9-291:55
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:286:9-290:55
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:289:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:288:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:291:13-52
-	android:theme
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:290:13-52
+	android:theme
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:289:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:288:13-80
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:287:13-80
 activity#com.easemob.redpacketui.ui.activity.RPWebViewActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:293:9-297:70
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:292:9-296:70
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:295:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:294:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:297:13-67
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:296:13-67
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:296:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:295:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:294:13-81
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:293:13-81
 activity#com.easemob.redpacketui.ui.activity.RPChangeActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:299:9-303:70
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:298:9-302:70
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:301:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:300:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:303:13-67
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:302:13-67
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:302:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:301:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:300:13-80
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:299:13-80
 activity#com.easemob.redpacketui.ui.activity.RPBankCardActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:305:9-309:67
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:304:9-308:67
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:307:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:306:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:309:13-64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:308:13-64
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:308:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:307:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:306:13-82
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:305:13-82
 activity#com.easemob.redpacketui.ui.activity.RPGroupMemberActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:311:9-315:67
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:310:9-314:67
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:313:13-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:312:13-49
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:315:13-64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:314:13-64
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:314:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:313:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:312:13-85
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:311:13-85
 activity#com.alipay.sdk.app.H5PayActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:317:9-322:70
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:316:9-321:70
 	android:screenOrientation
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:321:13-47
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:320:13-47
 	android:exported
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:320:13-37
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:319:13-37
 	android:windowSoftInputMode
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:322:13-67
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:321:13-67
 	android:configChanges
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:319:13-85
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:318:13-85
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:318:13-60
-receiver#com.hyphenate.chatuidemo.receiver.StartServiceReceiver
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:327:9-334:20
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:317:13-60
+receiver#cn.ypxy.superwechat.receiver.StartServiceReceiver
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:326:9-333:20
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:327:19-64
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:326:19-83
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:328:13-333:29
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:327:13-332:29
 	android:priority
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:328:28-51
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:327:28-51
 action#android.intent.action.BOOT_COMPLETED
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:329:17-79
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:328:17-79
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:329:25-76
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:328:25-76
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:330:17-82
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:329:17-82
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:330:25-79
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:329:25-79
 receiver#com.hyphenate.chat.EMGCMBroadcastReceiver
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:337:9-346:20
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:336:9-345:20
 	android:exported
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:339:13-36
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:338:13-36
 	android:permission
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:340:13-73
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:339:13-73
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:338:13-69
-intent-filter#com.google.android.c2dm.intent.RECEIVE+com.hyphenate.chatuidemo
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:341:13-345:29
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:337:13-69
+intent-filter#cn.ypxy.superchat+com.google.android.c2dm.intent.RECEIVE
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:340:13-344:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:342:17-81
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:341:17-81
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:342:25-78
-category#com.hyphenate.chatuidemo
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:344:17-69
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:341:25-78
+category#cn.ypxy.superchat
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:343:17-62
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:344:27-66
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:343:27-59
 service#com.hyphenate.chat.EMGCMListenerService
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:348:9-350:48
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:347:9-349:48
 	android:exported
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:350:13-37
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:349:13-37
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:349:13-67
-receiver#com.hyphenate.chatuidemo.receiver.GCMPushBroadCast
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:352:9-360:20
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:348:13-67
+receiver#cn.ypxy.superwechat.receiver.GCMPushBroadCast
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:351:9-359:20
 	android:exported
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:354:13-37
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:353:13-37
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:353:13-54
-intent-filter#com.hyphenate.chatuidemo+com.hyphenate.sdk.push
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:355:13-359:29
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:352:13-73
+intent-filter#cn.ypxy.superchat+com.hyphenate.sdk.push
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:354:13-358:29
 action#com.hyphenate.sdk.push
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:356:17-65
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:355:17-65
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:356:25-62
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:355:25-62
 service#com.xiaomi.mipush.sdk.PushMessageHandler
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:365:9-369:46
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:364:9-368:46
 	android:enabled
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:367:13-35
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:366:13-35
 	android:exported
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:368:13-36
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:367:13-36
 	tools:ignore
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:369:13-43
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:368:13-43
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:366:13-68
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:365:13-68
 service#com.xiaomi.mipush.sdk.MessageHandleService
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:370:9-372:38
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:369:9-371:38
 	android:enabled
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:372:13-35
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:371:13-35
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:371:13-70
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:370:13-70
 receiver#com.hyphenate.chat.EMMipushReceiver
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:374:9-387:20
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:373:9-386:20
 	android:exported
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:376:13-36
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:375:13-36
 	tools:ignore
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:377:13-44
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:376:13-44
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:375:13-63
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:374:13-63
 intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:378:13-380:29
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:377:13-379:29
 action#com.xiaomi.mipush.RECEIVE_MESSAGE
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:379:17-76
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:378:17-76
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:379:25-73
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:378:25-73
 intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:381:13-383:29
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:380:13-382:29
 action#com.xiaomi.mipush.MESSAGE_ARRIVED
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:382:17-76
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:381:17-76
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:382:25-73
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:381:25-73
 intent-filter#com.xiaomi.mipush.ERROR
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:384:13-386:29
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:383:13-385:29
 action#com.xiaomi.mipush.ERROR
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:385:17-66
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:384:17-66
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:385:25-63
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:384:25-63
 receiver#com.hyphenate.chat.EMHuaweiPushReceiver
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:392:9-406:20
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:391:9-405:20
 	android:exported
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:394:13-36
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:393:13-36
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:393:13-67
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:392:13-67
 intent-filter#com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:395:13-401:29
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:394:13-400:29
 action#com.huawei.android.push.intent.REGISTRATION
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:398:17-86
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:397:17-86
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:398:25-83
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:397:25-83
 action#com.huawei.android.push.intent.RECEIVE
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:400:17-81
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:399:17-81
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:400:25-78
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:399:25-78
 meta-data#CS_cloud_ablitity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:403:13-405:56
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:402:13-404:56
 	android:value
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:405:17-53
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:404:17-53
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:404:17-49
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:403:17-49
 receiver#com.huawei.android.pushagent.PushEventReceiver
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:409:9-419:20
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:408:9-418:20
 	android:process
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:412:13-43
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:411:13-43
 	android:exported
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:411:13-36
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:410:13-36
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:410:13-74
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:409:13-74
 intent-filter#com.huawei.android.push.PLUGIN+com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL+com.huawei.intent.action.PUSH+com.huawei.intent.action.PUSH_ON
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:413:13-418:29
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:412:13-417:29
 action#com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:414:17-94
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:413:17-94
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:414:25-91
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:413:25-91
 action#com.huawei.intent.action.PUSH
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:415:17-72
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:414:17-72
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:415:25-69
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:414:25-69
 action#com.huawei.intent.action.PUSH_ON
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:416:17-75
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:415:17-75
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:416:25-72
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:415:25-72
 action#com.huawei.android.push.PLUGIN
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:417:17-73
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:416:17-73
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:417:25-70
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:416:25-70
 service#com.huawei.android.pushagent.PushService
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:422:9-424:54
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:421:9-423:54
 	android:process
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:424:13-43
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:423:13-43
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:423:13-68
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:422:13-68
 service#com.umeng.update.net.DownloadingService
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:428:9-430:61
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:427:9-429:61
 	android:process
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:430:13-50
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:429:13-50
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:429:13-67
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:428:13-67
 activity#com.umeng.update.UpdateDialogActivity
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:432:9-434:84
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:431:9-433:84
 	android:theme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:434:13-72
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:433:13-72
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:433:13-65
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:432:13-65
 meta-data#EASEMOB_APPKEY
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:437:9-439:55
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:436:9-438:55
 	android:value
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:439:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:438:13-52
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:438:13-42
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:437:13-42
 service#com.hyphenate.chat.EMChatService
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:441:9-444:46
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:440:9-443:46
 	android:exported
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:443:13-36
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:442:13-36
 	tools:ignore
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:444:13-43
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:443:13-43
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:442:13-60
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:441:13-60
 receiver#com.hyphenate.chat.EMMonitorReceiver
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:446:9-457:20
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:445:9-456:20
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:446:19-70
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:445:19-70
 intent-filter#android.intent.action.PACKAGE_REMOVED
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:447:13-451:29
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:446:13-450:29
 action#android.intent.action.PACKAGE_REMOVED
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:448:17-80
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:447:17-80
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:448:25-77
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:447:25-77
 data
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:450:17-50
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:449:17-50
 	android:scheme
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:450:23-47
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:449:23-47
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:453:13-456:29
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:452:13-455:29
 action#android.intent.action.USER_PRESENT
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:455:17-77
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:454:17-77
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:455:25-74
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:454:25-74
 service#com.baidu.location.f
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:460:9-463:41
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:459:9-462:41
 	android:enabled
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:462:13-35
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:461:13-35
 	android:process
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:463:13-38
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:462:13-38
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:461:13-48
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:460:13-48
 meta-data#UMENG_APPKEY
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:465:9-467:66
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:464:9-466:66
 	android:value
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:467:13-53
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:466:13-53
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:466:13-40
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:465:13-40
 meta-data#UMENG_CHANNEL
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:468:9-470:41
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:467:9-469:41
 	android:value
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:470:13-38
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:469:13-38
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:469:13-41
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:468:13-41
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:471:9-473:64
+ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:470:9-472:64
 	android:value
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:473:13-61
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:472:13-61
 	android:name
-		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:472:13-52
+		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:471:13-52

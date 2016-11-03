@@ -1223,7 +1223,81 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/simpledemo/res/drawable-mdpi/ic_launcher.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/simpledemo/res/drawable-xhdpi/ic_launcher.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/simpledemo/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/Constant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/DemoApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/DemoHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/DemoModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/adapter/ChatRoomAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/adapter/GroupAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/adapter/NewFriendsMsgAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/db/DbOpenHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/db/DemoDBManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/db/InviteMessgeDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/db/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/domain/EmojiconExampleGroupData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/domain/InviteMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/domain/RobotUser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/domain/VideoEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/parse/ParseManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/parse/UserProfileManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/receiver/CallReceiver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/receiver/GCMPushBroadCast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/receiver/StartServiceReceiver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/runtimepermissions/Permissions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/runtimepermissions/PermissionsManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/runtimepermissions/PermissionsResultAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/task/DownloadImageTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/AddContactActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/BaseActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/BlacklistActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/CallActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatRoomDetailsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContactListFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContextMenuActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ConversationListFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/DiagnoseActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/EditActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ExitGroupDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ForwardMessageActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupBlacklistActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupDetailsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupPickContactsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupSearchMessageActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupSimpleDetailActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ImageGridActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ImageGridFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/LoginActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/NewFriendsMsgActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/NewGroupActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/OfflinePushNickActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PickAtUserActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PickContactNoCheckboxActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PublicChatRoomsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PublicGroupsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PublicGroupsSeachActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RecorderVideoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RegisterActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RobotsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/SetServersActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/SettingsFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/SplashActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/UserProfileActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/VideoCallActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/VoiceCallActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/utils/PreferenceManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/ImageCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/ImageResizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/ImageWorker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/RecyclingBitmapDrawable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/widget/ChatRowVoiceCall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/widget/ContactItemView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/widget/MyChronometer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/widget/RecyclingImageView.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/.classpath" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/.project" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/.settings/org.eclipse.jdt.core.prefs" />
@@ -1790,7 +1864,482 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/widget/photoview/SDK16.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/widget/photoview/ScrollerProxy.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/widget/photoview/VersionedGestureDetector.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/hyphenate/chatuidemo/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/r/debug/com/hyphenate/chatuidemo/Manifest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/r/debug/com/hyphenate/chatuidemo/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/Constant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$9$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$DataSyncListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$MyContactListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper$MyGroupChangeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoModel$Key.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/DemoModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/Manifest$permission.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/Manifest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$array.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$mipmap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/ChatRoomAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/ChatRoomAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/ChatRoomAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/GroupAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/GroupAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/GroupAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter$3$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter$4$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/db/DbOpenHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/db/DemoDBManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/db/InviteMessgeDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/db/UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/domain/EmojiconExampleGroupData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/domain/InviteMessage$InviteMesageStatus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/domain/InviteMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/domain/RobotUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/domain/VideoEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/parse/ParseManager$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/parse/ParseManager$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/parse/ParseManager$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/parse/ParseManager$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/parse/ParseManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/parse/UserProfileManager$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/parse/UserProfileManager$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/parse/UserProfileManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/receiver/CallReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/receiver/GCMPushBroadCast.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/receiver/StartServiceReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/runtimepermissions/Permissions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/runtimepermissions/PermissionsManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/runtimepermissions/PermissionsResultAction$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/runtimepermissions/PermissionsResultAction$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/runtimepermissions/PermissionsResultAction$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/runtimepermissions/PermissionsResultAction$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/runtimepermissions/PermissionsResultAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/task/DownloadImageTask$DownloadFileCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/task/DownloadImageTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/AddContactActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/AddContactActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/AddContactActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/AddContactActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/BaseActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/BlacklistActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/BlacklistActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/BlacklistActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/BlacklistActivity$BlacklistAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/BlacklistActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/CallActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/CallActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/CallActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/CallActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/CallActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/CallActivity$CallingState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/CallActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatFragment$CustomChatRowProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity$GridAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity$GridAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$4$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$BlackListSyncListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$BlackListSyncListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$ContactInfoSyncListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$ContactInfoSyncListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$ContactSyncListener$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$ContactSyncListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$ContactSyncListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment$HeaderItemClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContactListFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ContextMenuActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ConversationListFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ConversationListFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ConversationListFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/DiagnoseActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/DiagnoseActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/DiagnoseActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/DiagnoseActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/EditActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ExitGroupDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ForwardMessageActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ForwardMessageActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupBlacklistActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupBlacklistActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupBlacklistActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupBlacklistActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupBlacklistActivity$BlacklistAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupBlacklistActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$10$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$10$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$3$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$4$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$5$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$5$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$6$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$6$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$8$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$8$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$9$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$9$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GridAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GridAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GridAdapter$3$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GridAdapter$3$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GridAdapter$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GridAdapter$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GridAdapter$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GridAdapter$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GridAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GroupChangeListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$GroupChangeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupDetailsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupPickContactsActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupPickContactsActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupPickContactsActivity$PickContactAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupPickContactsActivity$PickContactAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupPickContactsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSearchMessageActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSearchMessageActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSearchMessageActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSearchMessageActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSearchMessageActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSearchMessageActivity$SearchedMessageAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSearchMessageActivity$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSearchMessageActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSimpleDetailActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSimpleDetailActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSimpleDetailActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSimpleDetailActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSimpleDetailActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSimpleDetailActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupSimpleDetailActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupsActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupsActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupsActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupsActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupsActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/GroupsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ImageGridActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ImageGridFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ImageGridFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ImageGridFragment$ImageAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ImageGridFragment$ImageAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/ImageGridFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/LoginActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/LoginActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/LoginActivity$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/LoginActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/LoginActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$8$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$8$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$MyContactListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity$MyContactListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/NewFriendsMsgActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/NewGroupActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/NewGroupActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/NewGroupActivity$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/NewGroupActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/NewGroupActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/OfflinePushNickActivity$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/OfflinePushNickActivity$1$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/OfflinePushNickActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/OfflinePushNickActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/OfflinePushNickActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/OfflinePushNickActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PickAtUserActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PickAtUserActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PickAtUserActivity$PickUserAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PickAtUserActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PickContactNoCheckboxActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PickContactNoCheckboxActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PickContactNoCheckboxActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$6$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$6$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$ChatRoomAdapter$RoomFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity$ChatRoomAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsActivity$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsActivity$3$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsActivity$GroupsAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsSeachActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsSeachActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsSeachActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/PublicGroupsSeachActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RecorderVideoActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RecorderVideoActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RecorderVideoActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RecorderVideoActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RecorderVideoActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RecorderVideoActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RecorderVideoActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RegisterActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RegisterActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RegisterActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RegisterActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RobotsActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RobotsActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RobotsActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RobotsActivity$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RobotsActivity$4$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RobotsActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RobotsActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RobotsActivity$RobotAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/RobotsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/SetServersActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/SetServersActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/SettingsFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/SettingsFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/SettingsFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/SettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/SplashActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/SplashActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/UserProfileActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/UserProfileActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/UserProfileActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/UserProfileActivity$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/UserProfileActivity$4$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/UserProfileActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/UserProfileActivity$5$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/UserProfileActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/UserProfileActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$10$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$BrightnessDataProcess.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity$YDeltaSeekBarListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VideoCallActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1$8$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1$8$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/ui/VoiceCallActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/utils/PreferenceManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/ImageCache$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/ImageCache$ImageCacheParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/ImageCache$RetainFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/ImageCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/ImageResizer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/ImageWorker$AsyncDrawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/ImageWorker$BitmapWorkerTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/ImageWorker$CacheAsyncTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/ImageWorker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/RecyclingBitmapDrawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/Utils$ResolutionComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/video/util/Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/widget/ChatRowVoiceCall.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/widget/ContactItemView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/widget/MyChronometer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/hyphenate/chatuidemo/widget/RecyclingImageView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru-rRU/values-ru-rRU.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/Constant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/DemoApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/DemoHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/DemoModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/adapter/ChatRoomAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/adapter/GroupAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/adapter/NewFriendsMsgAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/db/DbOpenHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/db/DemoDBManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/db/InviteMessgeDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/db/UserDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/domain/EmojiconExampleGroupData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/domain/InviteMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/domain/RobotUser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/domain/VideoEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/parse/ParseManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/parse/UserProfileManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/receiver/CallReceiver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/receiver/GCMPushBroadCast.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/receiver/StartServiceReceiver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/runtimepermissions/Permissions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/runtimepermissions/PermissionsManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/runtimepermissions/PermissionsResultAction.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/task/DownloadImageTask.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/AddContactActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/BaseActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/BlacklistActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/CallActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/ChatActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/ChatFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/ChatRoomDetailsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/ContactListFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/ContextMenuActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/ConversationListFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/DiagnoseActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/EditActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/ExitGroupDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/ForwardMessageActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/GroupBlacklistActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/GroupDetailsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/GroupPickContactsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/GroupSearchMessageActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/GroupSimpleDetailActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/GroupsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/ImageGridActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/ImageGridFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/LoginActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/NewFriendsMsgActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/NewGroupActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/OfflinePushNickActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/PickAtUserActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/PickContactNoCheckboxActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/PublicChatRoomsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/PublicGroupsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/PublicGroupsSeachActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/RecorderVideoActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/RegisterActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/RobotsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/SetServersActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/SettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/SplashActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/UserProfileActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/VideoCallActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/VoiceCallActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/utils/PreferenceManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/video/util/ImageCache.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/video/util/ImageResizer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/video/util/ImageWorker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/video/util/RecyclingBitmapDrawable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/video/util/Utils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/widget/ChatRowVoiceCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/widget/ContactItemView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/widget/MyChronometer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/hyphenate/chatuidemo/widget/RecyclingImageView.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/em_activity_video_call.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/em_activity_video_call.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/em_activity_voice_call.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/em_activity_voice_call.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/em_choose_griditem.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/em_choose_griditem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/em_contacts_header.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout/em_contacts_header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/em_activity_video_call.xml" afterPath="$PROJECT_DIR$/res/layout/em_activity_video_call.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/em_activity_voice_call.xml" afterPath="$PROJECT_DIR$/res/layout/em_activity_voice_call.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/em_choose_griditem.xml" afterPath="$PROJECT_DIR$/res/layout/em_choose_griditem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/em_contacts_header.xml" afterPath="$PROJECT_DIR$/res/layout/em_contacts_header.xml" />
     </list>
     <ignored path="ChatDemoUI3.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1823,18 +2372,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <file leaf-file-name="ImageResizer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/ImageResizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+            <state relative-caret-position="595">
+              <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
               <folding>
-                <element signature="e#2791#2809#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="VideoCallActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/VideoCallActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PickAtUserActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PickAtUserActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="58" column="34" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3174#3205#0" expanded="true" />
+                <element signature="e#3939#3970#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -4204,19 +4784,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/res/values-zh/em_strings.xml" />
-        <option value="$PROJECT_DIR$/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/build/intermediates/res/merged/debug/values/values.xml" />
         <option value="$PROJECT_DIR$/res/values/em_strings.xml" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/DemoHelper.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/adapter/ChatRoomAdapter.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatRoomDetailsActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/adapter/GroupAdapter.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PublicGroupsSeachActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/DiagnoseActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/adapter/NewFriendsMsgAdapter.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/domain/EmojiconExampleGroupData.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/AddContactActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/BlacklistActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/CallActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatFragment.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContactListFragment.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/widget/ContactItemView.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContextMenuActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ConversationListFragment.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/EditActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ExitGroupDialog.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RobotsActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/UserProfileActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PickContactNoCheckboxActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ForwardMessageActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupDetailsActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/OfflinePushNickActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PublicChatRoomsActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RecorderVideoActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RegisterActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupBlacklistActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/NewFriendsMsgActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/NewGroupActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PublicGroupsActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/SetServersActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/SettingsFragment.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/VoiceCallActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupPickContactsActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupsActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupSearchMessageActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupSimpleDetailActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ImageGridFragment.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/ImageResizer.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/ImageWorker.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/ImageCache.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/RecyclingBitmapDrawable.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/VideoCallActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PickAtUserActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
+    <option name="x" value="519" />
+    <option name="y" value="8" />
     <option name="width" value="1378" />
-    <option name="height" value="775" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -4234,7 +4860,7 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages AndroidView="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -4250,47 +4876,15 @@
               <option name="myItemId" value="ChatDemoUI3.0" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ChatDemoUI3.0" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatDemoUI3.0" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="ChatDemoUI3.0" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatDemoUI3.0" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anim" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatDemoUI3.0" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatDemoUI3.0" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -4429,6 +5023,15 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -4622,45 +5225,85 @@
       <option name="project" value="LOCAL" />
       <updated>1478138838131</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加资源文件,修改项目图标">
+      <created>1478139307864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1478139307864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1378" height="775" extended-state="0" />
+    <frame x="519" y="8" width="1378" height="780" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819724" sideWeight="0.4939302" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819724" sideWeight="0.5060698" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771823" sideWeight="0.4939302" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19954476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819724" sideWeight="0.5060698" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32771823" sideWeight="0.4939302" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19969743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -4676,214 +5319,730 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加资源文件" />
     <MESSAGE value="添加资源文件,修改项目图标" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加资源文件,修改项目图标" />
+    <MESSAGE value="项目资源带入" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目资源带入" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/DemoHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/SplashActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redpacketlibrary/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/em_strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values-zh/em_strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/intermediates/res/merged/debug/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/SplashActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redpacketlibrary/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml" />
-    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/intermediates/res/merged/debug/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="907" column="4" selection-start-line="907" selection-start-column="4" selection-end-line="907" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values-zh/em_strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redpacketlibrary/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyphenate/chatuidemo/ui/SplashActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hyphenate/chatuidemo/db/DemoDBManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/em_strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/mipmap-hdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+        <state relative-caret-position="208">
+          <caret line="310" column="66" selection-start-line="310" selection-start-column="66" selection-end-line="310" selection-end-column="66" />
           <folding>
-            <element signature="e#2791#2809#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#11447#11494#0" expanded="true" />
+            <element signature="e#21230#21298#0" expanded="true" />
+            <element signature="e#22389#22451#0" expanded="true" />
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/adapter/ChatRoomAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="42" column="61" selection-start-line="42" selection-start-column="61" selection-end-line="42" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatRoomDetailsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="193" column="7" selection-start-line="193" selection-start-column="7" selection-end-line="193" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2479#2520#0" expanded="true" />
+            <element signature="e#3985#4029#0" expanded="true" />
+            <element signature="e#5222#5268#0" expanded="true" />
+            <element signature="e#5285#5342#0" expanded="true" />
+            <element signature="e#5359#5417#0" expanded="true" />
+            <element signature="e#5434#5492#0" expanded="true" />
+            <element signature="e#5509#5568#0" expanded="true" />
+            <element signature="e#5591#5658#0" expanded="true" />
+            <element signature="e#5681#5751#0" expanded="true" />
+            <element signature="e#5768#5826#0" expanded="true" />
+            <element signature="e#5849#5903#0" expanded="true" />
+            <element signature="e#5935#5997#0" expanded="true" />
+            <element signature="e#6689#6731#0" expanded="true" />
+            <element signature="e#7077#7104#0" expanded="true" />
+            <element signature="e#9124#9177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/adapter/GroupAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1459#1520#0" expanded="false" />
+            <element signature="e#1541#1605#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PublicGroupsSeachActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1382#1426#0" expanded="true" />
+            <element signature="e#2562#2614#0" expanded="true" />
+            <element signature="e#2751#2805#0" expanded="true" />
+            <element signature="e#2816#2857#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/DiagnoseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2291#2340#0" expanded="true" />
+            <element signature="e#2461#2521#0" expanded="true" />
+            <element signature="e#3116#3168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/adapter/NewFriendsMsgAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="224" column="7" selection-start-line="224" selection-start-column="7" selection-end-line="224" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2664#2740#0" expanded="false" />
+            <element signature="e#2758#2806#0" expanded="false" />
+            <element signature="e#2827#2900#0" expanded="false" />
+            <element signature="e#2918#2982#0" expanded="false" />
+            <element signature="e#3000#3056#0" expanded="false" />
+            <element signature="e#3074#3131#0" expanded="false" />
+            <element signature="e#3152#3201#0" expanded="false" />
+            <element signature="e#3219#3279#0" expanded="false" />
+            <element signature="e#3303#3363#0" expanded="false" />
+            <element signature="e#3382#3442#0" expanded="false" />
+            <element signature="e#7112#7169#0" expanded="false" />
+            <element signature="e#7193#7249#0" expanded="false" />
+            <element signature="e#7273#7334#0" expanded="false" />
+            <element signature="e#9207#9265#0" expanded="false" />
+            <element signature="e#9295#9352#0" expanded="false" />
+            <element signature="e#9382#9444#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/domain/EmojiconExampleGroupData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2081#2173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/AddContactActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1642#1687#0" expanded="true" />
+            <element signature="e#1741#1785#0" expanded="true" />
+            <element signature="e#2187#2220#0" expanded="true" />
+            <element signature="e#2329#2361#0" expanded="true" />
+            <element signature="e#2804#2827#0" expanded="true" />
+            <element signature="e#3165#3201#0" expanded="true" />
+            <element signature="e#3266#3307#0" expanded="true" />
+            <element signature="e#3396#3451#0" expanded="true" />
+            <element signature="e#3730#3777#0" expanded="true" />
+            <element signature="e#3968#4018#0" expanded="true" />
+            <element signature="e#4263#4323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/BlacklistActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2204#2235#0" expanded="true" />
+            <element signature="e#3026#3059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="139" column="42" selection-start-line="139" selection-start-column="42" selection-end-line="139" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5614#5634#0" expanded="true" />
+            <element signature="e#5806#5832#0" expanded="true" />
+            <element signature="e#5966#5992#0" expanded="true" />
+            <element signature="e#6250#6276#0" expanded="true" />
+            <element signature="e#10041#10065#0" expanded="true" />
+            <element signature="e#14046#14076#0" expanded="true" />
+            <element signature="e#14581#14611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/CallActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="118" column="73" selection-start-line="118" selection-start-column="73" selection-end-line="118" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5083#5152#0" expanded="true" />
+            <element signature="e#9669#9717#0" expanded="true" />
+            <element signature="e#9740#9782#0" expanded="true" />
+            <element signature="e#9805#9870#0" expanded="true" />
+            <element signature="e#9893#9951#0" expanded="true" />
+            <element signature="e#9974#10034#0" expanded="true" />
+            <element signature="e#10057#10122#0" expanded="true" />
+            <element signature="e#10145#10194#0" expanded="true" />
+            <element signature="e#10217#10270#0" expanded="true" />
+            <element signature="e#11039#11084#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContactListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="235" column="21" selection-start-line="235" selection-start-column="21" selection-end-line="235" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8790#8833#0" expanded="true" />
+            <element signature="e#8856#8904#0" expanded="true" />
+            <element signature="e#10572#10630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/widget/ContactItemView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContextMenuActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ConversationListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="67" selection-start-line="35" selection-start-column="67" selection-end-line="35" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2087#2119#0" expanded="true" />
+            <element signature="e#3730#3792#0" expanded="true" />
+            <element signature="e#3931#3985#0" expanded="true" />
+            <element signature="e#4068#4130#0" expanded="true" />
+            <element signature="e#4543#4590#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/EditActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ExitGroupDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1209#1233#0" expanded="true" />
+            <element signature="e#1382#1401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RobotsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="69" column="36" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/UserProfileActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3252#3277#0" expanded="true" />
+            <element signature="e#3364#3378#0" expanded="true" />
+            <element signature="e#3651#3692#0" expanded="true" />
+            <element signature="e#3818#3836#0" expanded="true" />
+            <element signature="e#4785#4815#0" expanded="true" />
+            <element signature="e#4852#4889#0" expanded="true" />
+            <element signature="e#4891#4930#0" expanded="true" />
+            <element signature="e#5150#5186#0" expanded="true" />
+            <element signature="e#5663#5697#0" expanded="true" />
+            <element signature="e#5699#5729#0" expanded="true" />
+            <element signature="e#6112#6153#0" expanded="true" />
+            <element signature="e#6399#6443#0" expanded="true" />
+            <element signature="e#7917#7952#0" expanded="true" />
+            <element signature="e#7954#7984#0" expanded="true" />
+            <element signature="e#8334#8379#0" expanded="true" />
+            <element signature="e#8481#8523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PickContactNoCheckboxActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ForwardMessageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1429#2205#0" expanded="true" />
+            <element signature="e#2204#2205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupDetailsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3190#3231#0" expanded="true" />
+            <element signature="e#6104#6150#0" expanded="true" />
+            <element signature="e#6167#6224#0" expanded="true" />
+            <element signature="e#6241#6299#0" expanded="true" />
+            <element signature="e#6316#6374#0" expanded="true" />
+            <element signature="e#6391#6450#0" expanded="true" />
+            <element signature="e#6473#6540#0" expanded="true" />
+            <element signature="e#6563#6633#0" expanded="true" />
+            <element signature="e#8644#8687#0" expanded="true" />
+            <element signature="e#9060#9096#0" expanded="true" />
+            <element signature="e#9355#9383#0" expanded="true" />
+            <element signature="e#10079#10121#0" expanded="true" />
+            <element signature="e#10448#10475#0" expanded="true" />
+            <element signature="e#10594#10656#0" expanded="true" />
+            <element signature="e#11219#11281#0" expanded="true" />
+            <element signature="e#11472#11533#0" expanded="true" />
+            <element signature="e#12322#12379#0" expanded="true" />
+            <element signature="e#13504#13557#0" expanded="true" />
+            <element signature="e#14783#14813#0" expanded="true" />
+            <element signature="e#15535#15559#0" expanded="true" />
+            <element signature="e#15730#15781#0" expanded="true" />
+            <element signature="e#15805#15858#0" expanded="true" />
+            <element signature="e#18905#18968#0" expanded="true" />
+            <element signature="e#19968#20027#0" expanded="true" />
+            <element signature="e#21127#21179#0" expanded="true" />
+            <element signature="e#21205#21251#0" expanded="true" />
+            <element signature="e#21277#21325#0" expanded="true" />
+            <element signature="e#21351#21405#0" expanded="true" />
+            <element signature="e#21840#21879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/OfflinePushNickActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PublicChatRoomsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2579#2594#0" expanded="true" />
+            <element signature="e#2885#2929#0" expanded="true" />
+            <element signature="e#8209#8260#0" expanded="true" />
+            <element signature="e#8927#8981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RecorderVideoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="99" column="47" selection-start-line="99" selection-start-column="47" selection-end-line="99" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7276#7303#0" expanded="true" />
+            <element signature="e#7860#7884#0" expanded="true" />
+            <element signature="e#7910#7921#0" expanded="true" />
+            <element signature="e#8162#8177#0" expanded="true" />
+            <element signature="e#14199#14249#0" expanded="true" />
+            <element signature="e#14330#14341#0" expanded="true" />
+            <element signature="e#14571#14586#0" expanded="true" />
+            <element signature="e#15564#15579#0" expanded="true" />
+            <element signature="e#15597#15632#0" expanded="true" />
+            <element signature="e#15657#15668#0" expanded="true" />
+            <element signature="e#15969#15984#0" expanded="true" />
+            <element signature="e#16048#16059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RegisterActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#1869#1929#0" expanded="true" />
+            <element signature="e#2069#2128#0" expanded="true" />
+            <element signature="e#2276#2343#0" expanded="true" />
+            <element signature="e#2487#2540#0" expanded="true" />
+            <element signature="e#2723#2775#0" expanded="true" />
+            <element signature="e#3223#3281#0" expanded="true" />
+            <element signature="e#3664#3716#0" expanded="true" />
+            <element signature="e#3854#3908#0" expanded="true" />
+            <element signature="e#4054#4127#0" expanded="true" />
+            <element signature="e#4271#4323#0" expanded="true" />
+            <element signature="e#4416#4470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupBlacklistActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1217#1275#0" expanded="true" />
+            <element signature="e#2752#2811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/NewFriendsMsgActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/NewGroupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2314#2347#0" expanded="true" />
+            <element signature="e#2410#2445#0" expanded="true" />
+            <element signature="e#2650#2685#0" expanded="true" />
+            <element signature="e#3025#3085#0" expanded="true" />
+            <element signature="e#3108#3166#0" expanded="true" />
+            <element signature="e#3778#3837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PublicGroupsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/SetServersActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/SettingsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="125" column="76" selection-start-line="125" selection-start-column="76" selection-end-line="125" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5463#5496#0" expanded="true" />
+            <element signature="e#13428#13477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/VoiceCallActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4067#4129#0" expanded="true" />
+            <element signature="e#5525#5579#0" expanded="true" />
+            <element signature="e#6517#6537#0" expanded="true" />
+            <element signature="e#6540#6559#0" expanded="true" />
+            <element signature="e#6848#6894#0" expanded="true" />
+            <element signature="e#7431#7452#0" expanded="true" />
+            <element signature="e#7548#7573#0" expanded="true" />
+            <element signature="e#10142#10210#0" expanded="true" />
+            <element signature="e#10253#10306#0" expanded="true" />
+            <element signature="e#10349#10413#0" expanded="true" />
+            <element signature="e#10456#10523#0" expanded="true" />
+            <element signature="e#10595#10664#0" expanded="true" />
+            <element signature="e#10707#10749#0" expanded="true" />
+            <element signature="e#10792#10847#0" expanded="true" />
+            <element signature="e#10919#10968#0" expanded="true" />
+            <element signature="e#11012#11065#0" expanded="true" />
+            <element signature="e#11109#11151#0" expanded="true" />
+            <element signature="e#12441#12475#0" expanded="true" />
+            <element signature="e#14754#14799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupPickContactsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2150#2195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupSearchMessageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2983#3019#0" expanded="true" />
+            <element signature="e#3850#3879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/GroupSimpleDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2663#2734#0" expanded="true" />
+            <element signature="e#3073#3128#0" expanded="true" />
+            <element signature="e#3151#3201#0" expanded="true" />
+            <element signature="e#3224#3278#0" expanded="true" />
+            <element signature="e#3301#3355#0" expanded="true" />
+            <element signature="e#3378#3442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ImageGridFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1923#1994#0" expanded="true" />
+            <element signature="e#2019#2093#0" expanded="true" />
+            <element signature="e#5697#5750#0" expanded="true" />
+            <element signature="e#7877#7925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/ImageWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="199" column="29" selection-start-line="199" selection-start-column="29" selection-end-line="199" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/ImageCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="126" column="8" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="203" column="31" selection-start-line="203" selection-start-column="31" selection-end-line="203" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#10913#10964#0" expanded="true" />
+            <element signature="e#15099#15153#0" expanded="true" />
+            <element signature="e#15415#15440#0" expanded="true" />
+            <element signature="e#15481#15492#0" expanded="true" />
+            <element signature="e#16306#16364#0" expanded="true" />
+            <element signature="e#16651#16674#0" expanded="true" />
+            <element signature="e#16721#16732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/RecyclingBitmapDrawable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2836#2868#0" expanded="true" />
+            <element signature="e#3128#3162#0" expanded="true" />
+            <element signature="e#3275#3308#0" expanded="true" />
+            <element signature="e#3702#3732#0" expanded="true" />
+            <element signature="e#5615#5647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/video/util/ImageResizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/VideoCallActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/PickAtUserActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="58" column="34" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3174#3205#0" expanded="true" />
+            <element signature="e#3939#3970#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
