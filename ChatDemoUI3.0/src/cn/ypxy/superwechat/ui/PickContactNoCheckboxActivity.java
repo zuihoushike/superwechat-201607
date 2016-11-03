@@ -23,7 +23,7 @@ import android.widget.ListView;
 
 import cn.ypxy.superchat.R;
 import cn.ypxy.superwechat.Constant;
-import cn.ypxy.superwechat.DemoHelper;
+import cn.ypxy.superwechat.SuperWeChatHelper;
 import com.hyphenate.easeui.adapter.EaseContactAdapter;
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.widget.EaseSidebar;
@@ -76,7 +76,7 @@ public class PickContactNoCheckboxActivity extends BaseActivity {
 
 	private void getContactList() {
 		contactList.clear();
-		Map<String, EaseUser> users = DemoHelper.getInstance().getContactList();
+		Map<String, EaseUser> users = SuperWeChatHelper.getInstance().getContactList();
 		for (Entry<String, EaseUser> entry : users.entrySet()) {
 			if (!entry.getKey().equals(Constant.NEW_FRIENDS_USERNAME) && !entry.getKey().equals(Constant.GROUP_USERNAME) && !entry.getKey().equals(Constant.CHAT_ROOM) && !entry.getKey().equals(Constant.CHAT_ROBOT))
 				contactList.add(entry.getValue());

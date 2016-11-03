@@ -41,7 +41,7 @@ import com.hyphenate.chat.EMCallStateChangeListener;
 import com.hyphenate.chat.EMClient;
 
 import cn.ypxy.superchat.R;
-import cn.ypxy.superwechat.DemoHelper;
+import cn.ypxy.superwechat.SuperWeChatHelper;
 import com.hyphenate.media.EMLocalSurfaceView;
 import com.hyphenate.media.EMOppositeSurfaceView;
 import com.hyphenate.util.PathUtil;
@@ -115,7 +115,7 @@ public class VideoCallActivity extends CallActivity implements OnClickListener {
         }
         setContentView(R.layout.em_activity_video_call);
         
-        DemoHelper.getInstance().isVideoCalling = true;
+        SuperWeChatHelper.getInstance().isVideoCalling = true;
         callType = 1;
         
         getWindow().addFlags(
@@ -509,7 +509,7 @@ public class VideoCallActivity extends CallActivity implements OnClickListener {
 
     @Override
     protected void onDestroy() {
-        DemoHelper.getInstance().isVideoCalling = false;
+        SuperWeChatHelper.getInstance().isVideoCalling = false;
         stopMonitor();
         if(isRecording){
             callHelper.stopVideoRecord();

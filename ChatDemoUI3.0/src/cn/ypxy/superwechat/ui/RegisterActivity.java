@@ -17,7 +17,7 @@ import com.hyphenate.EMError;
 import com.hyphenate.chat.EMClient;
 
 import cn.ypxy.superchat.R;
-import cn.ypxy.superwechat.DemoHelper;
+import cn.ypxy.superwechat.SuperWeChatHelper;
 
 import com.hyphenate.exceptions.HyphenateException;
 
@@ -82,7 +82,7 @@ public class RegisterActivity extends BaseActivity {
 								if (!RegisterActivity.this.isFinishing())
 									pd.dismiss();
 								// save current user
-								DemoHelper.getInstance().setCurrentUserName(username);
+								SuperWeChatHelper.getInstance().setCurrentUserName(username);
 								Toast.makeText(getApplicationContext(), getResources().getString(R.string.Registered_successfully), Toast.LENGTH_SHORT).show();
 								finish();
 							}

@@ -7,7 +7,7 @@ import com.hyphenate.chat.EMClient;
 
 
 import cn.ypxy.superchat.R;
-import cn.ypxy.superwechat.DemoHelper;
+import cn.ypxy.superwechat.SuperWeChatHelper;
 
 
 /**
@@ -30,7 +30,7 @@ public class SplashActivity extends BaseActivity {
 
 		new Thread(new Runnable() {
 			public void run() {
-				if (DemoHelper.getInstance().isLoggedIn()) {
+				if (SuperWeChatHelper.getInstance().isLoggedIn()) {
 					// auto login mode, make sure all group and conversation is loaed before enter the main screen
 					long start = System.currentTimeMillis();
 					EMClient.getInstance().groupManager().loadAllGroups();

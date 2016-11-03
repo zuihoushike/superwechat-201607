@@ -35,8 +35,8 @@ import com.hyphenate.chat.EMOptions;
 
 import cn.ypxy.superchat.R;
 import cn.ypxy.superwechat.Constant;
-import cn.ypxy.superwechat.DemoHelper;
-import cn.ypxy.superwechat.DemoModel;
+import cn.ypxy.superwechat.SuperWeChatHelper;
+import cn.ypxy.superwechat.SuperWeChatModel;
 import com.hyphenate.easeui.widget.EaseSwitchButton;
 import com.hyphenate.util.EMLog;
 
@@ -106,7 +106,7 @@ public class SettingsFragment extends Fragment implements OnClickListener {
     private EaseSwitchButton switch_adaptive_video_encode;
 	private EaseSwitchButton customServerSwitch;
 
-    private DemoModel settingsModel;
+    private SuperWeChatModel settingsModel;
     private EMOptions chatOptions;
 	
 	@Override
@@ -152,7 +152,7 @@ public class SettingsFragment extends Fragment implements OnClickListener {
 		llDiagnose=(LinearLayout) getView().findViewById(R.id.ll_diagnose);
 		pushNick=(LinearLayout) getView().findViewById(R.id.ll_set_push_nick);
 		
-		settingsModel = DemoHelper.getInstance().getModel();
+		settingsModel = SuperWeChatHelper.getInstance().getModel();
 		chatOptions = EMClient.getInstance().getOptions();
 		
 		blacklistContainer.setOnClickListener(this);
@@ -374,7 +374,7 @@ public class SettingsFragment extends Fragment implements OnClickListener {
 		pd.setMessage(st);
 		pd.setCanceledOnTouchOutside(false);
 		pd.show();
-		DemoHelper.getInstance().logout(false,new EMCallBack() {
+		SuperWeChatHelper.getInstance().logout(false,new EMCallBack() {
 			
 			@Override
 			public void onSuccess() {

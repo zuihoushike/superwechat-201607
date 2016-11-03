@@ -36,7 +36,7 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMContact;
 
 import cn.ypxy.superchat.R;
-import cn.ypxy.superwechat.DemoHelper;
+import cn.ypxy.superwechat.SuperWeChatHelper;
 import cn.ypxy.superwechat.db.UserDao;
 import cn.ypxy.superwechat.domain.RobotUser;
 import com.hyphenate.exceptions.HyphenateException;
@@ -75,7 +75,7 @@ public class RobotsActivity extends BaseActivity {
 				getRobotNamesFromServer();
 			}
 		});
-		Map<String, RobotUser> robotMap = DemoHelper.getInstance().getRobotList();
+		Map<String, RobotUser> robotMap = SuperWeChatHelper.getInstance().getRobotList();
 		if (robotMap != null) {
 			robotList.addAll(robotMap.values());
 		} else {
@@ -130,7 +130,7 @@ public class RobotsActivity extends BaseActivity {
 						robotList.clear();
 						robotList.addAll(mMap.values());
 						// save it in cache
-						DemoHelper.getInstance().setRobotList(mMap);
+						SuperWeChatHelper.getInstance().setRobotList(mMap);
 						// save it in database
 						UserDao dao = new UserDao(RobotsActivity.this);
 						dao.saveRobotUser(robotList);

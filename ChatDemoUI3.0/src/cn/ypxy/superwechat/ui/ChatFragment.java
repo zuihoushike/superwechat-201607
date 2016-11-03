@@ -30,7 +30,7 @@ import com.hyphenate.chat.EMTextMessageBody;
 
 import cn.ypxy.superchat.R;
 import cn.ypxy.superwechat.Constant;
-import cn.ypxy.superwechat.DemoHelper;
+import cn.ypxy.superwechat.SuperWeChatHelper;
 import cn.ypxy.superwechat.domain.EmojiconExampleGroupData;
 import cn.ypxy.superwechat.domain.RobotUser;
 import cn.ypxy.superwechat.widget.ChatRowVoiceCall;
@@ -91,7 +91,7 @@ public class ChatFragment extends EaseChatFragment implements EaseChatFragmentHe
     protected void setUpView() {
         setChatFragmentListener(this);
         if (chatType == Constant.CHATTYPE_SINGLE) {
-            Map<String,RobotUser> robotMap = DemoHelper.getInstance().getRobotList();
+            Map<String,RobotUser> robotMap = SuperWeChatHelper.getInstance().getRobotList();
             if(robotMap!=null && robotMap.containsKey(toChatUsername)){
                 isRobot = true;
             }
