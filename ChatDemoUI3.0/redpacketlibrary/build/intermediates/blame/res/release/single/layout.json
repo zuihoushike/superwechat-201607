@@ -56,12 +56,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\layout\\ease_widget_title_bar.xml"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_red_packet_detail.xml",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_fragment_red_packet_detail.xml"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_textview.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_textview.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_red_packet_detail.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_fragment_red_packet_detail.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_activity_bind_bankcard.xml",
@@ -96,16 +96,16 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_pay_has_pwd_dialog.xml"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_open_packet_dialog.xml",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_open_packet_dialog.xml"
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_details_list_footer.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_details_list_footer.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\ease_chat_message_list.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\layout\\ease_chat_message_list.xml"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_details_list_footer.xml",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_details_list_footer.xml"
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_open_packet_dialog.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_open_packet_dialog.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_verify_dentity.xml",

@@ -1,4 +1,4 @@
-#Thu Nov 03 13:01:36 CST 2016
+#Thu Nov 03 22:31:36 CST 2016
 base.0=F\:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=F\:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

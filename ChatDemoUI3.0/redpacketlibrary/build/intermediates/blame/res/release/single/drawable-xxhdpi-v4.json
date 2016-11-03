@@ -208,12 +208,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\drawable-xxhdpi\\rp_load_dark_11.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\rp_question_blue.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\drawable-xxhdpi\\rp_question_blue.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\rp_change_details.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\drawable-xxhdpi\\rp_change_details.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\rp_question_blue.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\drawable-xxhdpi\\rp_question_blue.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\rp_title_back.png",

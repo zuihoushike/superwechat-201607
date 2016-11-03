@@ -22,6 +22,13 @@ ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:8:5-11:59
 MERGED from [com.android.support:multidex:1.0.1] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
 MERGED from [ChatDemoUI3.0:redpacketlibrary:unspecified] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\ChatDemoUI3.0\redpacketlibrary\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [ChatDemoUI3.0:EaseUI:unspecified] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\ChatDemoUI3.0\EaseUI\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.jakewharton:butterknife:8.4.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\AndroidManifest.xml:5:5-43
 	tools:overrideLibrary
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:11:9-56
 	android:targetSdkVersion
@@ -142,6 +149,12 @@ ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:47:5-80
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:47:22-77
 application
 ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:49:5-474:19
+MERGED from [com.android.support:support-v4:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] F:\SuperWeChat\ChatDemoUI3.0\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from F:\SuperWeChat\ChatDemoUI3.0\AndroidManifest.xml:54:9-41
 	android:allowBackup

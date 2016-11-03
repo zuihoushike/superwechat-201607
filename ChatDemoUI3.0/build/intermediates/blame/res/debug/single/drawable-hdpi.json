@@ -28,24 +28,24 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_actionbar_camera_icon.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_de_ping.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_de_ping.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_de_ping.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_de_ping.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_settings_normal.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_settings_normal.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_conversation_selected.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_conversation_selected.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_dx_checkbox_off.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_dx_checkbox_off.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_conversation_selected.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_conversation_selected.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_public.png",
@@ -76,6 +76,10 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\profile_normal.png"
     },
     {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\profile_pressed.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\profile_pressed.png"
+    },
+    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
     },
@@ -84,20 +88,16 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_conversation_normal.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\profile_pressed.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\profile_pressed.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\afr.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\afr.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_logo.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_logo.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_video_recorder_start_btn.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_video_recorder_start_btn.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_logo.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_logo.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_btn_delete.png",
@@ -140,12 +140,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\head.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_de_nearby.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_de_nearby.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_login_error_icon.png",
@@ -164,12 +164,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_more.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_new_friends_icon.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_new_friends_icon.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_menu_sao.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_menu_sao.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_new_friends_icon.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_new_friends_icon.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\find_normal.png",
@@ -208,12 +208,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\aul.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_icon_pwd.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_icon_pwd.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_menu_addfriend.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_menu_addfriend.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_icon_pwd.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_icon_pwd.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\auo.png",
@@ -244,24 +244,24 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_back.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_msg_state_fail_resend.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_msg_state_fail_resend.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\aj5.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\aj5.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_msg_state_fail_resend.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_msg_state_fail_resend.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_roominfo_add_btn_pressed.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_roominfo_add_btn_pressed.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_013_cover.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_013_cover.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_sex_male.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\ic_sex_male.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_013_cover.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_013_cover.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_settings_selected.png",
@@ -332,12 +332,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_020_cover.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_welcom_logo.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_welcom_logo.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_camera_switch_normal.9.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_camera_switch_normal.9.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_welcom_logo.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_welcom_logo.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_instagram_white.png",
@@ -348,12 +348,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\aii.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_roominfo_add_btn_normal.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_roominfo_add_btn_normal.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_030_cover.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_030_cover.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_roominfo_add_btn_normal.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_roominfo_add_btn_normal.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_btn_style_alert_dialog_background.9.png",
@@ -376,12 +376,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_default_avatar.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_smiley_minus_btn_nor.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_smiley_minus_btn_nor.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contact_list_pressed.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\contact_list_pressed.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_smiley_minus_btn_nor.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_smiley_minus_btn_nor.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_profile_headphoto_update_icon.png",
@@ -428,12 +428,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\aj2.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wp.9.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\wp.9.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wo.9.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\wo.9.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wp.9.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\wp.9.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\auj.png",
@@ -480,16 +480,16 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_mm_title_back.png"
     },
     {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zx.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\zx.png"
+    },
+    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_024_cover.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\icon_024_cover.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_search_bar_icon_normal.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_search_bar_icon_normal.png"
-    },
-    {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zx.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\zx.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_qunliao.png",
@@ -512,16 +512,16 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_to_group_details_normal.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_video_recorder_stop_btn.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_video_recorder_stop_btn.png"
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weixin_pressed.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\weixin_pressed.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_mm_title_act_btn_pressed.9.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_mm_title_act_btn_pressed.9.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weixin_pressed.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\weixin_pressed.png"
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_video_recorder_stop_btn.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable-hdpi\\em_video_recorder_stop_btn.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_menu_money.png",

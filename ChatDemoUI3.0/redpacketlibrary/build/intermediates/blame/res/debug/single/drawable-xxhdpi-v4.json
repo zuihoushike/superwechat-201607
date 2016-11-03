@@ -260,12 +260,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\drawable-xxhdpi\\rp_back_arrow_white.png"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_titlebar_bg.9.png",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\drawable-xxhdpi\\rp_titlebar_bg.9.png"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_back_arrow_blue.png",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\drawable-xxhdpi\\rp_back_arrow_blue.png"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_titlebar_bg.9.png",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\drawable-xxhdpi\\rp_titlebar_bg.9.png"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png",
