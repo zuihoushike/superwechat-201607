@@ -37,6 +37,7 @@ import cn.ypxy.superwechat.bean.Result;
 import cn.ypxy.superwechat.data.NetDao;
 import cn.ypxy.superwechat.data.OkHttpUtils;
 import cn.ypxy.superwechat.utils.CommonUtils;
+import cn.ypxy.superwechat.utils.MD5;
 import cn.ypxy.superwechat.utils.MFGT;
 
 /**
@@ -168,7 +169,7 @@ public class RegisterActivity extends BaseActivity {
             public void run() {
                 try {
                     // call method in SDK
-                    EMClient.getInstance().createAccount(username, pwd);
+                    EMClient.getInstance().createAccount(username, MD5.getMessageDigest(pwd));
                     runOnUiThread(new Runnable() {
                         public void run() {
                             if (!RegisterActivity.this.isFinishing())
