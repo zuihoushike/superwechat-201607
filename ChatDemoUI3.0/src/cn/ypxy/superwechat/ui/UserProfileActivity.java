@@ -76,43 +76,57 @@ public class UserProfileActivity extends BaseActivity implements OnClickListener
 			iconRightArrow.setVisibility(View.INVISIBLE);
 		}
 		if(username != null){
-    		if (username.equals(EMClient.getInstance().getCurrentUser())) {
-    			tvUsername.setText(EMClient.getInstance().getCurrentUser());
-    			EaseUserUtils.setUserNick(username, tvNickName);
-                EaseUserUtils.setUserAvatar(this, username, headAvatar);
-    		} else {
-    			tvUsername.setText(username);
-    			EaseUserUtils.setUserNick(username, tvNickName);
-    			EaseUserUtils.setUserAvatar(this, username, headAvatar);
-    			asyncFetchUserInfo(username);
-    		}
+//
+			tvUsername.setText(username);
+			EaseUserUtils.setAppUserNick(username, tvNickName);
+			EaseUserUtils.setAppUserAvatar(this, username, headAvatar);
 		}
 	}
 
 	@Override
 	public void onClick(View v) {
 		switch (v.getId()) {
-		case R.id.user_head_avatar:
-			uploadHeadPhoto();
-			break;
-		case R.id.rl_nickname:
-			final EditText editText = new EditText(this);
-			new AlertDialog.Builder(this).setTitle(R.string.setting_nickname).setIcon(android.R.drawable.ic_dialog_info).setView(editText)
-					.setPositiveButton(R.string.dl_ok, new DialogInterface.OnClickListener() {
+//		case R.id.user_head_avatar:
+//			uploadHeadPhoto();
+//			break;
+//		case R.id.rl_nickname:
+//			final EditText editText = new EditText(this);
+//			new AlertDialog.Builder(this).setTitle(R.string.setting_nickname).setIcon(android.R.drawable.ic_dialog_info).setView(editText)
+//					.setPositiveButton(R.string.dl_ok, new DialogInterface.OnClickListener() {
+//
+//						@Override
+//						public void onClick(DialogInterface dialog, int which) {
+//							String nickString = editText.getText().toString();
+//							if (TextUtils.isEmpty(nickString)) {
+//								Toast.makeText(UserProfileActivity.this, getString(R.string.toast_nick_not_isnull), Toast.LENGTH_SHORT).show();
+//								return;
+//							}
+//							updateRemoteNick(nickString);
+//						}
+//					}).setNegativeButton(R.string.dl_cancel, null).show();
+//			break;
 
-						@Override
-						public void onClick(DialogInterface dialog, int which) {
-							String nickString = editText.getText().toString();
-							if (TextUtils.isEmpty(nickString)) {
-								Toast.makeText(UserProfileActivity.this, getString(R.string.toast_nick_not_isnull), Toast.LENGTH_SHORT).show();
-								return;
+			case R.id.user_head_avatar:
+				uploadHeadPhoto();
+				break;
+			case R.id.rl_nickname:
+				final EditText editText = new EditText(this);
+				new AlertDialog.Builder(this).setTitle(R.string.setting_nickname).setIcon(android.R.drawable.ic_dialog_info).setView(editText)
+						.setPositiveButton(R.string.dl_ok, new DialogInterface.OnClickListener() {
+							@Override
+							public void onClick(DialogInterface dialog, int which) {
+								String nickString = editText.getText().toString();
+								if (TextUtils.isEmpty(nickString)) {
+									Toast.makeText(UserProfileActivity.this, getString(R.string.toast_nick_not_isnull), Toast.LENGTH_SHORT).show();
+									return;
+								}
+								updateRemoteNick(nickString);
 							}
-							updateRemoteNick(nickString);
-						}
-					}).setNegativeButton(R.string.dl_cancel, null).show();
-			break;
-		default:
-			break;
+						}).setNegativeButton(R.string.dl_cancel, null).show();
+				break;
+			default:
+				break;
+
 		}
 
 	}
