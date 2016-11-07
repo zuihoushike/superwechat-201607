@@ -145,6 +145,11 @@ public class SuperWeChatHelper {
 		return instance;
 	}
 
+
+
+    public User getAppUser(String username) {
+        return null;
+    }
 	/**
 	 * init helper
 	 *
@@ -728,11 +733,29 @@ public class SuperWeChatHelper {
         // if user is not in your contacts, set inital letter for him/her
         if(user == null){
             user = new EaseUser(username);
-            EaseCommonUtils.setUserInitialLetter(user);
+            EaseCommonUtils.setAppUserInitialletter(user);
         }
         return user;
 	}
 
+    private EaseUser getAppUserInfo(String username){
+        // To get instance of EaseUser, here we get it from the user list in memory
+        // You'd better cache it if you get it from your server
+        EaseUser user = null;
+        if(username.equals(EMClient.getInstance().getCurrentUser()))
+            return getUserProfileManager().getCurrentUserInfo();
+        user = getContactList().get(username);
+        if(user == null && getRobotList() != null){
+            user = getRobotList().get(username);
+        }
+
+        // if user is not in your contacts, set inital letter for him/her
+        if(user == null){
+            user = new EaseUser(username);
+            EaseCommonUtils.setAppUserInitialletter(user);
+        }
+        return user;
+    }
 	 /**
      * Global listener
      * If this event already handled by an activity, you don't need handle it again
@@ -1088,7 +1111,7 @@ public class SuperWeChatHelper {
                    Map<String, EaseUser> userlist = new HashMap<String, EaseUser>();
                    for (String username : usernames) {
                        EaseUser user = new EaseUser(username);
-                       EaseCommonUtils.setUserInitialLetter(user);
+                       EaseCommonUtils.setAppUserInitialletter(user);
                        userlist.put(username, user);
                    }
                    // save the contact list to cache
@@ -1316,4 +1339,6 @@ public class SuperWeChatHelper {
         mList.addAll(appContactList.values());
         demoModel.saveAppContactList(mList);
     }
+
+
 }

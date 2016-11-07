@@ -274,11 +274,14 @@ public class SuperWeChatModel {
     }
 
     public Map<String,User> getAppContactList() {
-        return null;
+        UserDao dao = new UserDao(context);
+        return dao.getAppContactList();
     }
 
-    public void saveAppContactList(ArrayList<User> mList) {
-
+    public boolean saveAppContactList(ArrayList<User> contactList) {
+        UserDao dao = new UserDao(context);
+        dao.saveAppContactList(contactList);
+        return true;
     }
 
     enum Key{
