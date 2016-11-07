@@ -57,7 +57,7 @@ public class LoginActivity extends BaseActivity {
     private boolean autoLogin = false;
     String currentUsername;
     String currentPassword;
-    ProgressDialog pd;
+    ProgressDialog pd = null;
     LoginActivity mContext;
 
     @Override
@@ -129,7 +129,7 @@ public class LoginActivity extends BaseActivity {
         }
 
         progressShow = true;
-        pd = new ProgressDialog(LoginActivity.this);
+        pd = new ProgressDialog(mContext);
         pd.setCanceledOnTouchOutside(false);
         pd.setOnCancelListener(new OnCancelListener() {
 

@@ -184,12 +184,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_activity_webview.xml"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_details_list_item.xml",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_details_list_item.xml"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_picture.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_details_list_item.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_details_list_item.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_single_chat_packet.xml",
