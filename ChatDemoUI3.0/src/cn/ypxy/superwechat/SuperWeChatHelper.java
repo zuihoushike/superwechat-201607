@@ -40,6 +40,7 @@ import cn.ypxy.superwechat.ui.ChatActivity;
 import cn.ypxy.superwechat.ui.MainActivity;
 import cn.ypxy.superwechat.ui.VideoCallActivity;
 import cn.ypxy.superwechat.ui.VoiceCallActivity;
+import cn.ypxy.superwechat.utils.L;
 import cn.ypxy.superwechat.utils.PreferenceManager;
 import com.hyphenate.easeui.controller.EaseUI;
 import com.hyphenate.easeui.controller.EaseUI.EaseEmojiconInfoProvider;
@@ -48,6 +49,7 @@ import com.hyphenate.easeui.controller.EaseUI.EaseUserProfileProvider;
 import com.hyphenate.easeui.domain.EaseEmojicon;
 import com.hyphenate.easeui.domain.EaseEmojiconGroupEntity;
 import com.hyphenate.easeui.domain.EaseUser;
+import com.hyphenate.easeui.domain.User;
 import com.hyphenate.easeui.model.EaseAtMessageHelper;
 import com.hyphenate.easeui.model.EaseNotifier;
 import com.hyphenate.easeui.model.EaseNotifier.EaseNotificationInfoProvider;
@@ -60,6 +62,7 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.nfc.Tag;
 import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
 
@@ -93,6 +96,8 @@ public class SuperWeChatHelper {
 	private static SuperWeChatHelper instance = null;
 	
 	private SuperWeChatModel demoModel = null;
+
+    private User currentUser = null;
 	
 	/**
      * sync groups status listener
@@ -846,8 +851,7 @@ public class SuperWeChatHelper {
 	
 	/**
 	 * update contact list
-	 * 
-	 * @param contactList
+
 	 */
 	public void setContactList(Map<String, EaseUser> aContactList) {
 		if(aContactList == null){
@@ -918,8 +922,7 @@ public class SuperWeChatHelper {
 
 	 /**
      * update user list to cache and database
-     *
-     * @param contactList
+
      */
     public void updateContactList(List<EaseUser> contactInfoList) {
          for (EaseUser u : contactInfoList) {
@@ -1242,4 +1245,16 @@ public class SuperWeChatHelper {
         easeUI.popActivity(activity);
     }
 
+    public User getCurrentUser() {
+        if (currentUser!=null){
+            String username = EMClient.getInstance().getCurrentUser();
+            L.e(TAG,"getCurrentUsername="+username);
+            currentUser = new User(username);
+        }
+        return currentUser;
+    }
+
+    public void setCurrentUser(User currentUser) {
+        this.currentUser = currentUser;
+    }
 }
