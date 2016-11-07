@@ -1340,5 +1340,28 @@ public class SuperWeChatHelper {
         demoModel.saveAppContactList(mList);
     }
 
+    /**
+     * save single contact
+    */
+    public void saveContact(EaseUser user){
+        contactList.put(user.getUsername(), user);
+        demoModel.saveContact(user);
+    }
 
+    /**
+     * get contact list
+     *
+     */
+    public Map<String, EaseUser> getContactList() {
+        if (isLoggedIn() && contactList == null) {
+            contactList = demoModel.getContactList();
+        }
+
+        // return a empty non-null object to avoid app crash
+        if(contactList == null){
+            return new Hashtable<String, EaseUser>();
+        }
+
+        return contactList;
+    }
 }
