@@ -6,6 +6,7 @@ import cn.ypxy.superwechat.db.UserDao;
 import cn.ypxy.superwechat.domain.RobotUser;
 import cn.ypxy.superwechat.utils.PreferenceManager;
 import com.hyphenate.easeui.domain.EaseUser;
+import com.hyphenate.easeui.domain.User;
 import com.hyphenate.easeui.model.EaseAtMessageHelper;
 
 import java.util.ArrayList;
@@ -266,7 +267,20 @@ public class SuperWeChatModel {
     public boolean isCustomServerEnable(){
         return PreferenceManager.getInstance().isCustomServerEnable();
     }
-    
+
+    public void saveAppContact(User user) {
+        UserDao  dao = new UserDao(context);
+        dao.saveAppContact(user);
+    }
+
+    public Map<String,User> getAppContactList() {
+        return null;
+    }
+
+    public void saveAppContactList(ArrayList<User> mList) {
+
+    }
+
     enum Key{
         VibrateAndPlayToneOn,
         VibrateOn,
