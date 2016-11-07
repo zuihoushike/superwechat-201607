@@ -263,7 +263,10 @@ public class UserProfileActivity extends BaseActivity implements OnClickListener
 			Bitmap photo = extras.getParcelable("data");
 			Drawable drawable = new BitmapDrawable(getResources(), photo);
 			headAvatar.setImageDrawable(drawable);
-			uploadUserAvatar(Bitmap2Bytes(photo));
+			dialog.dismiss();
+			Toast.makeText(UserProfileActivity.this, getString(R.string.toast_updatephoto_success),
+					Toast.LENGTH_SHORT).show();
+//			uploadUserAvatar(Bitmap2Bytes(photo));
 		}
 
 	}
