@@ -10,21 +10,13 @@ public class Locationer extends User implements Serializable{
 	private Boolean mlocationIsSearched;
 	private String mlocationLastUpdateTime;
 	private Double distance;
-	public Locationer() {
-		super();
+
+	public Locationer(String username) {
+		super(username);
 	}
 
-	public Locationer(String muserName, String muserNick, Integer mavatarId, String mavatarPath, String mavatarSuffix,
-					  Integer mavatarType, String mavatarLastUpdateTime, Integer mlocationId, Double mlocationLatitude, Double mlocationLongitude,
-					  Boolean mlocationIsSearched, String mlocationLastUpdateTime, Double distance) {
-		super(muserName, muserNick, mavatarId, mavatarPath,mavatarSuffix, mavatarType, mavatarLastUpdateTime);
-		this.mlocationId = mlocationId;
-		this.mlocationLatitude = mlocationLatitude;
-		this.mlocationLongitude = mlocationLongitude;
-		this.mlocationIsSearched = mlocationIsSearched;
-		this.mlocationLastUpdateTime = mlocationLastUpdateTime;
-		this.distance = distance;
-	}
+
+
 
 	public Integer getMLocationId() {
 		return mlocationId;

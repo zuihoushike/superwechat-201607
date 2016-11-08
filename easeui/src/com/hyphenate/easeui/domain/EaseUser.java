@@ -33,7 +33,7 @@ public class EaseUser extends EMContact {
 
 	public String getInitialLetter() {
 	    if(initialLetter == null){
-            EaseCommonUtils.setUserInitialLetter(this);
+            EaseCommonUtils.setAppUserInitialletter(this);
         }
 		return initialLetter;
 	}

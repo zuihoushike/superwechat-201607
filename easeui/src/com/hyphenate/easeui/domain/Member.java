@@ -7,17 +7,20 @@ public class Member extends User implements Serializable {
 	private Integer mmemberGroupId;
 	private String mmemberGroupHxid;
 	private Integer mmemberPermission;
-	public Member() {
-		super();
+
+	public Member(String username, String mmemberGroupHxid, Integer mmemberGroupId, Integer mmemberId, Integer mmemberPermission) {
+		super(username);
+		this.mmemberGroupHxid = mmemberGroupHxid;
+		this.mmemberGroupId = mmemberGroupId;
+		this.mmemberId = mmemberId;
+		this.mmemberPermission = mmemberPermission;
 	}
 
-	public Member(String muserName, String muserNick, Integer mavatarId, String mavatarPath, String mavatarSuffix,
-				  Integer mavatarType, String mavatarLastUpdateTime, Integer mmemberId, Integer mmemberGroupId, String mmemberGroupHxid,
-				  Integer mmemberPermission) {
-		super(muserName, muserNick, mavatarId, mavatarPath,mavatarSuffix, mavatarType, mavatarLastUpdateTime);
-		this.mmemberId = mmemberId;
-		this.mmemberGroupId = mmemberGroupId;
+	public Member(String username, String initialLetter, Integer mavatarId, String mavatarLastUpdateTime, String mavatarPath, String mavatarSuffix, Integer mavatarType, String muserName, String muserNick, String mmemberGroupHxid, Integer mmemberGroupId, Integer mmemberId, Integer mmemberPermission) {
+		super(username, initialLetter, mavatarId, mavatarLastUpdateTime, mavatarPath, mavatarSuffix, mavatarType, muserName, muserNick);
 		this.mmemberGroupHxid = mmemberGroupHxid;
+		this.mmemberGroupId = mmemberGroupId;
+		this.mmemberId = mmemberId;
 		this.mmemberPermission = mmemberPermission;
 	}
 

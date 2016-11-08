@@ -244,7 +244,7 @@ public class EaseContactListFragment extends EaseBaseFragment {
                     if(!blackList.contains(entry.getKey())){
                         //filter out users in blacklist
                         EaseUser user = entry.getValue();
-                        EaseCommonUtils.setUserInitialLetter(user);
+//                        EaseCommonUtils.setUserInitialLetter(user);
                         contactList.add(user);
                     }
                 }

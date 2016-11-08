@@ -3,8 +3,13 @@ package cn.ypxy.superwechat.utils;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.os.Parcelable;
+
+import com.hyphenate.easeui.domain.User;
 
 import cn.ypxy.superchat.R;
+import cn.ypxy.superwechat.I;
+import cn.ypxy.superwechat.ui.FriendProfileActivity;
 import cn.ypxy.superwechat.ui.LoginActivity;
 import cn.ypxy.superwechat.ui.RegisterActivity;
 
@@ -37,5 +42,12 @@ public class MFGT {
 
     public static void gotoRegister(Activity context){
         startActivity(context, RegisterActivity.class);
+    }
+
+    public static void gotoFriendProfile(Activity context, User user){
+        Intent intent = new Intent();
+        intent.setClass(context,FriendProfileActivity.class);
+        intent.putExtra(I.User.USER_NAME, (Parcelable) user);
+        startActivity(context, intent);
     }
 }
