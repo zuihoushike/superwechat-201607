@@ -1,6 +1,9 @@
 package cn.ypxy.superwechat.ui;
 
+import java.io.BufferedOutputStream;
 import java.io.ByteArrayOutputStream;
+import java.io.File;
+import java.io.FileOutputStream;
 
 import com.bumptech.glide.Glide;
 import com.hyphenate.EMValueCallBack;
@@ -8,6 +11,8 @@ import com.hyphenate.chat.EMClient;
 
 import cn.ypxy.superchat.R;
 import cn.ypxy.superwechat.SuperWeChatHelper;
+import cn.ypxy.superwechat.utils.L;
+
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.utils.EaseUserUtils;
 
@@ -30,6 +35,8 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import static android.R.attr.bitmap;
 
 public class UserProfileActivity extends BaseActivity implements OnClickListener{
 	
@@ -302,7 +309,8 @@ public class UserProfileActivity extends BaseActivity implements OnClickListener
 	
 	public byte[] Bitmap2Bytes(Bitmap bm){
 		ByteArrayOutputStream baos = new ByteArrayOutputStream();
-		bm.compress(Bitmap.CompressFormat.PNG, 100, baos);
+		bm.compress(Bitmap.CompressFormat.JPEG, 100, baos);
 		return baos.toByteArray();
 	}
+
 }
