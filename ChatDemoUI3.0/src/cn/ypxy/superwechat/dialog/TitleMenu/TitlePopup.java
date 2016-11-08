@@ -16,10 +16,12 @@ import android.widget.ListView;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 
+import com.easemob.redpacketui.recyclerview.widget.RecyclerView;
+import com.easemob.redpacketui.recyclerview.widget.RecyclerView.ViewHolder;
+
 import java.util.ArrayList;
 
-import cn.ucai.superwechat.R;
-import cn.ucai.superwechat.common.ViewHolder;
+import cn.ypxy.superchat.R;
 
 
 /**
@@ -98,7 +100,7 @@ public class TitlePopup extends PopupWindow {
 		mListView.setOnItemClickListener(new OnItemClickListener() {
 			@Override
 			public void onItemClick(AdapterView<?> arg0, View arg1, int index,
-					long arg3) {
+									long arg3) {
 				// 点击子类项后，弹窗消失
 				dismiss();
 
@@ -143,15 +145,14 @@ public class TitlePopup extends PopupWindow {
 				if (convertView == null) {
 					convertView = LayoutInflater.from(mContext).inflate(
 							R.layout.layout_item_pop, parent, false);
-				}
-				TextView textView = ViewHolder.get(convertView, R.id.txt_title);
+				}TextView textView = ViewHolder.get(convertView, R.id.txt_title);
 				textView.setTextColor(mContext.getResources().getColor(
 						android.R.color.white));
 				textView.setTextSize(16);
 				// 设置文本居中
-				 textView.setGravity(Gravity.CENTER_VERTICAL);
+				textView.setGravity(Gravity.CENTER_VERTICAL);
 				// // 设置文本域的范围
-				 textView.setPadding(0, 10, 0, 10);
+				textView.setPadding(0, 10, 0, 10);
 				// 设置文本在一行内显示（不换行）
 				textView.setSingleLine(true);
 

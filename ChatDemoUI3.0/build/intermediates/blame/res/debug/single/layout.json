@@ -16,6 +16,10 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\layout\\ease_row_received_bigexpression.xml"
     },
     {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_friend.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\layout\\activity_add_friend.xml"
+    },
+    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_bind_bankcard.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\redpacketlibrary\\unspecified\\res\\layout\\rp_fragment_bind_bankcard.xml"
     },
@@ -94,6 +98,10 @@
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\rp_details_list_footer.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\redpacketlibrary\\unspecified\\res\\layout\\rp_details_list_footer.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\view_title_popup.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\layout\\view_title_popup.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_pick_contact_no_checkbox.xml",
@@ -322,6 +330,14 @@
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_user_profile.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\layout\\em_activity_user_profile.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_profile.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\layout\\activity_friend_profile.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_pop.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\layout\\layout_item_pop.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_video_call.xml",

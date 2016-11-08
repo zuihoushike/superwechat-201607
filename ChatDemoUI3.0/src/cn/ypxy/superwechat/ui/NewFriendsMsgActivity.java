@@ -15,13 +15,19 @@ package cn.ypxy.superwechat.ui;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.ListView;
+import android.widget.TextView;
 
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import butterknife.OnClick;
 import cn.ypxy.superchat.R;
 import cn.ypxy.superwechat.adapter.NewFriendsMsgAdapter;
 import cn.ypxy.superwechat.db.InviteMessgeDao;
 import cn.ypxy.superwechat.domain.InviteMessage;
+import cn.ypxy.superwechat.utils.MFGT;
 
 import java.util.List;
 
@@ -30,23 +36,32 @@ import java.util.List;
  *
  */
 public class NewFriendsMsgActivity extends BaseActivity {
-
+	@BindView(R.id.img_back)
+	ImageView mImgBack;
+	@BindView(R.id.txt_title)
+	TextView mTxtTitle;
+	@BindView(R.id.list)
+	ListView listView;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.em_activity_new_friends_msg);
-
-		ListView listView = (ListView) findViewById(R.id.list);
+		ButterKnife.bind(this);
+		mImgBack.setVisibility(View.VISIBLE);
+		mTxtTitle.setVisibility(View.VISIBLE);
+		mTxtTitle.setText(getString(R.string.recommended_friends));
 		InviteMessgeDao dao = new InviteMessgeDao(this);
 		List<InviteMessage> msgs = dao.getMessagesList();
 
 		NewFriendsMsgAdapter adapter = new NewFriendsMsgAdapter(this, 1, msgs);
 		listView.setAdapter(adapter);
 		dao.saveUnreadMessageCount(0);
-		
+
+
 	}
 
-	public void back(View view) {
-		finish();
+	@OnClick(R.id.img_back)
+	public void onClick() {
+		MFGT.finish(this);
 	}
 }

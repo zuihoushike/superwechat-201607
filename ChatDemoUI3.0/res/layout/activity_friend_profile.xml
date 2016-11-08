@@ -65,7 +65,7 @@
 
             <TextView
                 android:id="@+id/txt_note_mark"
-                style="@style/list_txt_Style_without_right"
+                style="@style/bottom_line_edit_text_style"
                 android:layout_marginTop="20dp"
                 android:text="@string/userinfo_txt_note_mark" />
 

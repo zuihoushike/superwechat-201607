@@ -533,7 +533,7 @@ public class RecorderVideoActivity extends BaseActivity implements
 		try {
 			BufferedOutputStream bos = new BufferedOutputStream(
 					new FileOutputStream(file));
-			bitmap.compress(Bitmap.CompressFormat.JPEG, 100, bos);
+			bitmap.compress(Bitmap.CompressFormat.JPEG  , 100, bos);
 			bos.flush();
 			bos.close();
 		} catch (IOException e) {
