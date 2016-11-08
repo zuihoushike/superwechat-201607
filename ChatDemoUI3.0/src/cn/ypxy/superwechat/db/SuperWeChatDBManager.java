@@ -79,7 +79,7 @@ public class SuperWeChatDBManager {
                         || username.equals(Constant.CHAT_ROOM)|| username.equals(Constant.CHAT_ROBOT)) {
                         user.setInitialLetter("");
                 } else {
-                    EaseCommonUtils.setUserInitialLetter(user);
+//                    EaseCommonUtils.setUserInitialLetter(user);
                 }
                 users.put(username, user);
             }
@@ -211,7 +211,7 @@ public class SuperWeChatDBManager {
     synchronized public void updateMessage(int msgId,ContentValues values){
         SQLiteDatabase db = dbHelper.getWritableDatabase();
         if(db.isOpen()){
-            db.update(InviteMessgeDao.TABLE_NAME, values, InviteMessgeDao.COLUMN_NAME_ID + " = ?", new String[]{String.valueOf(msgId)});
+            Cursor cursor = db.rawQuery("select * from " + InviteMessgeDao.TABLE_NAME + " order by "+InviteMessgeDao.COLUMN_NAME_TIME+" desc",null);
         }
     }
     
