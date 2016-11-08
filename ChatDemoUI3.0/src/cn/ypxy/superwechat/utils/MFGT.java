@@ -10,6 +10,7 @@ import com.hyphenate.easeui.domain.User;
 import cn.ypxy.superchat.R;
 import cn.ypxy.superwechat.I;
 import cn.ypxy.superwechat.ui.AddFriendActivity;
+import cn.ypxy.superwechat.ui.ChatActivity;
 import cn.ypxy.superwechat.ui.FriendProfileActivity;
 import cn.ypxy.superwechat.ui.LoginActivity;
 import cn.ypxy.superwechat.ui.NewFriendsMsgActivity;
@@ -61,5 +62,12 @@ public class MFGT {
     }
     public static void gotoNewFriendsMsg(Activity context){
         startActivity(context, NewFriendsMsgActivity.class);
+    }
+
+    public static void gotoChat(Activity context,String username){
+        Intent intent = new Intent();
+        intent.setClass(context,ChatActivity.class);
+        intent.putExtra("userId",username);
+        startActivity(context, intent);
     }
 }
