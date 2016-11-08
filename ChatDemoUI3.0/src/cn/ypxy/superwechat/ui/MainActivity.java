@@ -64,6 +64,7 @@ import cn.ypxy.superwechat.db.InviteMessgeDao;
 import cn.ypxy.superwechat.db.UserDao;
 import cn.ypxy.superwechat.runtimepermissions.PermissionsManager;
 import cn.ypxy.superwechat.runtimepermissions.PermissionsResultAction;
+import cn.ypxy.superwechat.utils.L;
 
 @SuppressLint("NewApi")
 public class MainActivity extends BaseActivity implements CompoundButton.OnCheckedChangeListener,ViewPager.OnPageChangeListener {
@@ -80,8 +81,10 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 	TabHost mLayoutTabhost;
 	// user account was removed
 	private boolean isCurrentAccountRemoved = false;
+	private ContactListFragment contactListFragment;
 
 	MTabAdapter adapter;
+	private int currentTabIndex;
 
 
 	/**
@@ -102,6 +105,7 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 		ButterKnife.bind(this);
 		// runtime permission for android 6.0, just require all permissions here for simple
 		requestPermissions();
+		contactListFragment = new ContactListFragment();
 		initView();
 		umeng();
 
@@ -186,10 +190,11 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 		mLayoutViewpage.setAdapter(adapter);
 		mLayoutViewpage.setOffscreenPageLimit(4);
 		adapter.addFragment(new ConversationListFragment(),getString(R.string.app_name));
-		adapter.addFragment(new ContactListFragment(),getString(R.string.contacts));
+		adapter.addFragment(contactListFragment, getString(R.string.contacts));
 //		adapter.addFragment(new DiscoverFragment(),getString(R.string.discover));
 //		adapter.addFragment(new ProfileFragment(),getString(R.string.me));
 		adapter.notifyDataSetChanged();
+		currentTabIndex = 0;
 		mLayoutTabhost.setCurrentTab(0);
 //		mLayoutTabhost.setOnClickListener((mLayoutTabhost.OnCheckedChangeListener) this);
 		mLayoutViewpage.setOnPageChangeListener(this);
@@ -292,6 +297,7 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 	@Override
 	public void onPageSelected(int position) {
 //		mLayoutTabhost.setChecked(position);
+		currentTabIndex = position;
 		mLayoutTabhost.setVisibility(position);
 		mLayoutViewpage.setCurrentItem(position);
 	}
@@ -303,6 +309,7 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 
 
 	public void onCheckedChange(int checkedPosition, boolean byUser) {
+		currentTabIndex = checkedPosition;
 		mLayoutViewpage.setCurrentItem(checkedPosition,false);
 	}
 
@@ -379,6 +386,12 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 		runOnUiThread(new Runnable() {
 			public void run() {
 				int count = getUnreadAddressCountTotal();
+				L.e(TAG, "updateUnreadAddressLable,count=" + count);
+				if (count > 0) {
+//					mLayoutTabhost.setHasNew(1, true);
+				} else {
+//					mLayoutTabhost.setHasNew(1, false);
+				}
 			}
 		});
 
