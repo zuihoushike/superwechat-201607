@@ -1,3 +1,5 @@
+package cn.ypxy.superwechat.adapter;
+
 import android.support.v4.app.Fragment;
 
 import android.support.v4.app.FragmentManager;
@@ -11,13 +13,13 @@ import java.util.List;
  * Created by User on 2016/11/3.
  */
 
-public class MainTabAdpter extends FragmentStatePagerAdapter {
+public class MTabAdapter extends FragmentStatePagerAdapter {
 
     private final List<Fragment> mFragments = new ArrayList<>();
     private final List<String> mFragmentTitles = new ArrayList<>();
     private FragmentManager fm;
 
-    public MainTabAdpter(FragmentManager fm) {
+    public MTabAdapter(FragmentManager fm) {
         super(fm);
         this.fm = fm;
         this.saveState();

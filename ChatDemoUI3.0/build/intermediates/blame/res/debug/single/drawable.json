@@ -88,12 +88,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_open_selector.xml"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\titlepop_item_selector.xml",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\titlepop_item_selector.xml"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_item_selector.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\setting_item_selector.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\titlepop_item_selector.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\titlepop_item_selector.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
@@ -144,6 +144,10 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\redpacketlibrary\\unspecified\\res\\drawable\\rp_shape_corner.xml"
     },
     {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_normal_shape_unsolid.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_open_normal_shape_unsolid.xml"
     },
@@ -160,12 +164,12 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_blue_selector.xml"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\em_appitem_del_btn.xml",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\em_appitem_del_btn.xml"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\em_appitem_del_btn.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\em_appitem_del_btn.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_cancel_shape.xml",
@@ -224,6 +228,10 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\drawable\\ease_edit_text_bg.xml"
     },
     {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_normal_shape.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_blue_normal_shape.xml"
     },
@@ -238,6 +246,10 @@
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\em_checkbox_bg_gray_selector.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\em_checkbox_bg_gray_selector.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\em_main_bottom_item_bg.xml",
@@ -296,6 +308,14 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\btn_bg_gray.xml"
     },
     {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\EaseUI\\unspecified\\res\\drawable\\ease_recording_text_hint_bg.xml"
     },
@@ -328,6 +348,10 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\em_camera_switch_selector.xml"
     },
     {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_answer_bg.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\em_call_answer_bg.xml"
     },
@@ -338,6 +362,10 @@
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_voice_call_selector.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\drawable\\em_chat_voice_call_selector.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\em_tab_contact_list_bg.xml",
@@ -386,6 +414,10 @@
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_selector.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\ChatDemoUI3.0\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_grey_selector.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_pressed_shape.xml",

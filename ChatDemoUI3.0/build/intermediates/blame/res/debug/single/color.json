@@ -1,10 +1,26 @@
 [
     {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\color\\em_main_botton_text_color.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\color\\em_main_botton_text_color.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\color\\tab_def_title_color_selector.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\res\\color\\tab_def_title_color_selector.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_light.xml"
     }
 ]
