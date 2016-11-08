@@ -106,4 +106,8 @@ public class EaseUserUtils {
 
     private static void setAppUserName(String s, String username, TextView textView) {
     }
+
+    public static User getCurrentAppUserInfo() {
+        return null;
+        }
 }
