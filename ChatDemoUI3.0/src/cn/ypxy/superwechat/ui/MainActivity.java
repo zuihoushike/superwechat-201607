@@ -273,6 +273,12 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 			public void onReceive(Context context, Intent intent) {
 				updateUnreadLabel();
 				updateUnreadAddressLable();
+				if (conversationListFragment != null) {
+					conversationListFragment.refresh();
+				}
+				if(contactListFragment != null) {
+					contactListFragment.refresh();
+				}
 				String action = intent.getAction();
 				if (action.equals(Constant.ACTION_GROUP_CHANAGED)) {
 					if (EaseCommonUtils.getTopActivity(MainActivity.this).equals(GroupsActivity.class.getName())) {
