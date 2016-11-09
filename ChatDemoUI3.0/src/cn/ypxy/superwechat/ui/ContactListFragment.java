@@ -19,12 +19,17 @@ import java.util.Map;
 import com.hyphenate.chat.EMClient;
 
 import cn.ypxy.superchat.R;
+import cn.ypxy.superwechat.I;
 import cn.ypxy.superwechat.SuperWeChatHelper;
 
+import cn.ypxy.superwechat.bean.Result;
+import cn.ypxy.superwechat.data.NetDao;
+import cn.ypxy.superwechat.data.OkHttpUtils;
 import cn.ypxy.superwechat.db.InviteMessgeDao;
 import cn.ypxy.superwechat.db.UserDao;
 import cn.ypxy.superwechat.utils.L;
 import cn.ypxy.superwechat.utils.MFGT;
+import cn.ypxy.superwechat.utils.ResultUtils;
 import cn.ypxy.superwechat.widget.ContactItemView;
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.ui.EaseContactListFragment;
@@ -246,6 +251,24 @@ public class ContactListFragment extends EaseContactListFragment {
 		pd.setMessage(st1);
 		pd.setCanceledOnTouchOutside(false);
 		pd.show();
+
+        NetDao.delContact(getActivity(), EMClient.getInstance().getCurrentUser(), tobeDeleteUser.getUsername(),
+                new OkHttpUtils.OnCompleteListener<String>() {
+                    @Override
+                    public void onSuccess(String s) {
+                        if(s!=null){
+                            Result result = ResultUtils.getResultFromJson(s, I.User.class);
+                            if(result!=null && result.isRetMsg()){
+                                SuperWeChatHelper.getInstance().delAppContact(tobeDeleteUser.getUsername());
+                            }
+                        }
+                    }
+
+                    @Override
+                    public void onError(String error) {
+                    }
+                });
+
 		new Thread(new Runnable() {
 			public void run() {
 				try {

@@ -83,6 +83,7 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 	private boolean isCurrentAccountRemoved = false;
 	private ContactListFragment contactListFragment;
 
+
 	MTabAdapter adapter;
 	private int currentTabIndex;
 
@@ -105,6 +106,7 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 		ButterKnife.bind(this);
 		// runtime permission for android 6.0, just require all permissions here for simple
 		requestPermissions();
+		conversationListFragment = new ConversationListFragment();
 		contactListFragment = new ContactListFragment();
 		initView();
 		umeng();
@@ -189,7 +191,7 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 		adapter.clear();
 		mLayoutViewpage.setAdapter(adapter);
 		mLayoutViewpage.setOffscreenPageLimit(4);
-		adapter.addFragment(new ConversationListFragment(),getString(R.string.app_name));
+		adapter.addFragment(conversationListFragment, getString(R.string.app_name));
 		adapter.addFragment(contactListFragment, getString(R.string.contacts));
 //		adapter.addFragment(new DiscoverFragment(),getString(R.string.discover));
 //		adapter.addFragment(new ProfileFragment(),getString(R.string.me));
@@ -567,6 +569,16 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 
 			@Override
 			public void onReceive(Context context, Intent intent) {
+				if (currentTabIndex == 0) {
+					// refresh conversation list
+					if (conversationListFragment != null) {
+						conversationListFragment.refresh();
+					}
+				} else if (currentTabIndex == 1) {
+					if (contactListFragment != null) {
+						contactListFragment.refresh();
+					}
+				}
 				SuperWeChatHelper.getInstance().logout(false, new EMCallBack() {
 
 					@Override
