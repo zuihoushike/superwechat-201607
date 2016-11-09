@@ -72,12 +72,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redpacketlibrary/build/intermediates/res/merged/androidTest/debug/layout/ease_fragment_contact_list.xml" afterPath="$PROJECT_DIR$/redpacketlibrary/build/intermediates/res/merged/androidTest/debug/layout/ease_fragment_contact_list.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redpacketlibrary/build/intermediates/res/merged/debug/layout/ease_fragment_contact_list.xml" afterPath="$PROJECT_DIR$/redpacketlibrary/build/intermediates/res/merged/debug/layout/ease_fragment_contact_list.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redpacketlibrary/build/intermediates/res/merged/release/layout/ease_fragment_contact_list.xml" afterPath="$PROJECT_DIR$/redpacketlibrary/build/intermediates/res/merged/release/layout/ease_fragment_contact_list.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ypxy/superwechat/SuperWeChatHelper.java" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/SuperWeChatHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ypxy/superwechat/SuperWeChatModel.java" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/SuperWeChatModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ypxy/superwechat/data/NetDao.java" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/data/NetDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ypxy/superwechat/db/SuperWeChatDBManager.java" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/db/SuperWeChatDBManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ypxy/superwechat/db/UserDao.java" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/db/UserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContactListFragment.java" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContactListFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ypxy/superwechat/I.java" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/I.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatActivity.java" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/MainActivity.java" afterPath="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/blame/res/androidTest/debug/single/layout.json" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/blame/res/androidTest/debug/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/res/layout/ease_fragment_contact_list.xml" afterPath="$PROJECT_DIR$/../easeui/build/intermediates/bundles/debug/res/layout/ease_fragment_contact_list.xml" />
@@ -120,111 +116,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContactListFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContactListFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="259" column="79" selection-start-line="259" selection-start-column="79" selection-end-line="259" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
+            <state relative-caret-position="225">
+              <caret line="450" column="9" selection-start-line="450" selection-start-column="9" selection-end-line="450" selection-end-column="9" />
               <folding>
-                <element signature="e#6393#6421#0" expanded="true" />
-                <element signature="e#17148#18010#0" expanded="true" />
-                <element signature="e#18009#18010#0" expanded="true" />
+                <element signature="e#6423#6451#0" expanded="true" />
+                <element signature="e#8739#9567#0" expanded="true" />
+                <element signature="e#9566#9567#0" expanded="true" />
+                <element signature="e#17672#18534#0" expanded="true" />
+                <element signature="e#18533#18534#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConversationListFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ConversationListFragment.java">
+      <file leaf-file-name="I.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/I.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FriendProfileActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/FriendProfileActivity.java">
+      <file leaf-file-name="ChatActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuperWeChatHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/SuperWeChatHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="1378" column="26" selection-start-line="1378" selection-start-column="26" selection-end-line="1378" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuperWeChatModel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/SuperWeChatModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="134" column="8" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
+            <state relative-caret-position="391">
+              <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
               <folding>
-                <element signature="e#4105#4113#0" expanded="true" />
+                <element signature="e#1853#1854#0" expanded="true" />
+                <element signature="e#1890#1891#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NetDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/data/NetDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuperWeChatDBManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/db/SuperWeChatDBManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="494" column="22" selection-start-line="494" selection-start-column="22" selection-end-line="494" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/db/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="137" column="26" selection-start-line="137" selection-start-column="26" selection-end-line="137" selection-end-column="26" />
-              <folding>
-                <element signature="e#4043#4044#0" expanded="true" />
-                <element signature="e#4105#4106#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MFGT.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/utils/MFGT.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -2725,8 +2651,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/res/values-zh/em_strings.xml" />
-        <option value="$PROJECT_DIR$/res/values/em_strings.xml" />
         <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/utils/CommonUtils.java" />
         <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/RegisterActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/em_activity_login.xml" />
@@ -2774,14 +2698,16 @@
         <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/data/NetDao.java" />
         <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/db/SuperWeChatDBManager.java" />
         <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/db/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/MainActivity.java" />
         <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContactListFragment.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/I.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatActivity.java" />
+        <option value="$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/MainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="451" />
-    <option name="y" value="41" />
+    <option name="x" value="568" />
+    <option name="y" value="43" />
     <option name="width" value="989" />
     <option name="height" value="740" />
   </component>
@@ -2817,14 +2743,7 @@
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChatDemoUI3.0" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -2834,7 +2753,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="7ce2c297" />
-    <property name="SearchEverywhereHistoryKey" value="onRece&#9;PSI&#9;JAVA://null#onReceive&#10;Main&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/MainActivity.java&#10;ContactList&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/ContactListFragment.java&#10;UseD&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/db/UserDao.java&#10;SuperWe&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/db/SuperWeChatDBManager.java&#10;Net&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/data/NetDao.java&#10;Super&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/SuperWeChatModel.java&#10;Friend&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/FriendProfileActivity.java&#10;ConVersationListF&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.ConversationListFragment&#10;FriendProfile&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/FriendProfileActivity.java&#10;onContextItem&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.ContactListFragment#onContextItemSelected&#10;onItemClick&#9;PSI&#9;JAVA://null#onItemClick&#10;em_context&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/menu/em_context_contact_list.xml&#10;onContactDeleted&#9;PSI&#9;JAVA://cn.ypxy.superwechat.SuperWeChatHelper.MyContactListener#onContactDeleted&#10;onContactAdded&#9;PSI&#9;JAVA://cn.ypxy.superwechat.SuperWeChatHelper.MyContactListener#onContactAdded&#10;Ease&#9;FILE&#9;file://F:/SuperWeChat/easeui/src/com/hyphenate/easeui/utils/EaseUserUtils.java&#10;updateMess&#9;PSI&#9;JAVA://cn.ypxy.superwechat.db.SuperWeChatDBManager#updateMessage&#10;SuperWeChatDB&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/db/SuperWeChatDBManager.java&#10;EaseUser&#9;FILE&#9;file://F:/SuperWeChat/easeui/src/com/hyphenate/easeui/utils/EaseUserUtils.java&#10;MF&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/utils/MFGT.java&#10;NewFriendsMsg&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.NewFriendsMsgActivity&#10;ContactListFragment&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/ContactListFragment.java&#10;NewFriends&#9;PSI&#9;JAVA://cn.ypxy.superwechat.adapter.NewFriendsMsgAdapter&#10;em_row_invi&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_row_invite_msg.xml&#10;em_contact_head&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_contacts_header.xml&#10;em_activity_new_&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_activity_new_friends_msg.xml&#10;saveBitmap&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.RecorderVideoActivity#saveBitmapFile&#10;UserPro&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/UserProfileActivity.java&#10;Mf&#9;PSI&#9;JAVA://cn.ypxy.superwechat.utils.MFGT&#10;OnItem&#9;FILE&#9;jar://C:/Users/最后时刻/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/7a16d82461021005f75be89293341fd3cef73bfc/butterknife-annotations-8.4.0-sources.jar!/butterknife/OnItemClick.java&#10;NetD&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/data/NetDao.java&#10;em_activity_add_contact&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_activity_add_contact.xml&#10;activity&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/FriendProfileActivity.java&#10;activity_fri&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/activity_friend_profile.xml&#10;Add&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.AddContactActivity&#10;em_activity_add&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_activity_add_contact.xml&#10;Contact&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/ContactListFragment.java&#10;ease_fragment&#9;FILE&#9;file://F:/SuperWeChat/easeui/res/layout/ease_fragment_contact_list.xml&#10;em_fragment&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_fragment_conversation_settings.xml&#10;SettingsAct&#9;FILE&#9;file://D:/Users/zuihoushike/AppData/Local/sources/android-24/com/example/android/networkusage/SettingsActivity.java&#10;em_layout_loading&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_layout_loading_data.xml&#10;User&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/UserProfileActivity.java&#10;MainAc&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.MainActivity&#10;em_activity_&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_activity_main.xml&#10;em_activity_main&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_activity_main.xml&#10;EaseC&#9;FILE&#9;file://F:/SuperWeChat/easeui/src/com/hyphenate/easeui/utils/EaseCommonUtils.java&#10;UserDa&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/db/UserDao.java&#10;Mod&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/SuperWeChatModel.java&#10;getUserIn&#9;PSI&#9;JAVA://cn.ypxy.superwechat.SuperWeChatHelper#getUserInfo&#10;DB&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/db/SuperWeChatDBManager.java" />
+    <property name="SearchEverywhereHistoryKey" value="ChatA&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.ChatActivity&#10;I&#9;PSI&#9;JAVA://cn.ypxy.superwechat.I&#10;onReceive&#9;PSI&#9;JAVA://null#onReceive&#10;onRece&#9;PSI&#9;JAVA://null#onReceive&#10;Main&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/MainActivity.java&#10;ContactList&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/ContactListFragment.java&#10;UseD&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/db/UserDao.java&#10;SuperWe&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/db/SuperWeChatDBManager.java&#10;Net&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/data/NetDao.java&#10;Super&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/SuperWeChatModel.java&#10;Friend&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/FriendProfileActivity.java&#10;ConVersationListF&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.ConversationListFragment&#10;FriendProfile&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/FriendProfileActivity.java&#10;onContextItem&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.ContactListFragment#onContextItemSelected&#10;onItemClick&#9;PSI&#9;JAVA://null#onItemClick&#10;em_context&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/menu/em_context_contact_list.xml&#10;onContactDeleted&#9;PSI&#9;JAVA://cn.ypxy.superwechat.SuperWeChatHelper.MyContactListener#onContactDeleted&#10;onContactAdded&#9;PSI&#9;JAVA://cn.ypxy.superwechat.SuperWeChatHelper.MyContactListener#onContactAdded&#10;Ease&#9;FILE&#9;file://F:/SuperWeChat/easeui/src/com/hyphenate/easeui/utils/EaseUserUtils.java&#10;updateMess&#9;PSI&#9;JAVA://cn.ypxy.superwechat.db.SuperWeChatDBManager#updateMessage&#10;SuperWeChatDB&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/db/SuperWeChatDBManager.java&#10;EaseUser&#9;FILE&#9;file://F:/SuperWeChat/easeui/src/com/hyphenate/easeui/utils/EaseUserUtils.java&#10;MF&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/utils/MFGT.java&#10;NewFriendsMsg&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.NewFriendsMsgActivity&#10;ContactListFragment&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/ContactListFragment.java&#10;NewFriends&#9;PSI&#9;JAVA://cn.ypxy.superwechat.adapter.NewFriendsMsgAdapter&#10;em_row_invi&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_row_invite_msg.xml&#10;em_contact_head&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_contacts_header.xml&#10;em_activity_new_&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_activity_new_friends_msg.xml&#10;saveBitmap&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.RecorderVideoActivity#saveBitmapFile&#10;UserPro&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/UserProfileActivity.java&#10;Mf&#9;PSI&#9;JAVA://cn.ypxy.superwechat.utils.MFGT&#10;OnItem&#9;FILE&#9;jar://C:/Users/最后时刻/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/7a16d82461021005f75be89293341fd3cef73bfc/butterknife-annotations-8.4.0-sources.jar!/butterknife/OnItemClick.java&#10;NetD&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/data/NetDao.java&#10;em_activity_add_contact&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_activity_add_contact.xml&#10;activity&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/FriendProfileActivity.java&#10;activity_fri&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/activity_friend_profile.xml&#10;Add&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.AddContactActivity&#10;em_activity_add&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_activity_add_contact.xml&#10;Contact&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/ContactListFragment.java&#10;ease_fragment&#9;FILE&#9;file://F:/SuperWeChat/easeui/res/layout/ease_fragment_contact_list.xml&#10;em_fragment&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_fragment_conversation_settings.xml&#10;SettingsAct&#9;FILE&#9;file://D:/Users/zuihoushike/AppData/Local/sources/android-24/com/example/android/networkusage/SettingsActivity.java&#10;em_layout_loading&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_layout_loading_data.xml&#10;User&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/ui/UserProfileActivity.java&#10;MainAc&#9;PSI&#9;JAVA://cn.ypxy.superwechat.ui.MainActivity&#10;em_activity_&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_activity_main.xml&#10;em_activity_main&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/res/layout/em_activity_main.xml&#10;EaseC&#9;FILE&#9;file://F:/SuperWeChat/easeui/src/com/hyphenate/easeui/utils/EaseCommonUtils.java&#10;UserDa&#9;FILE&#9;file://F:/SuperWeChat/ChatDemoUI3.0/src/cn/ypxy/superwechat/db/UserDao.java" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/res/layout" />
     <property name="android.project.structure.last.selected" value="EaseUI" />
@@ -3449,11 +3368,25 @@
       <option name="project" value="LOCAL" />
       <updated>1478700630113</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="删除联系人">
+      <created>1478701475554</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1478701475554</updated>
+    </task>
+    <task id="LOCAL-00040" summary="删除联系人刷新消息列表">
+      <created>1478701696200</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1478701696200</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="451" y="41" width="989" height="740" extended-state="0" />
+    <frame x="568" y="43" width="989" height="740" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3502,8 +3435,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="登陆成功闪屏获取数据保存到内存中" />
-    <MESSAGE value="登录dialog的显示bug" />
     <MESSAGE value="登录dialog的显示bug2" />
     <MESSAGE value="个人中心界面极限是用户数据的逻辑" />
     <MESSAGE value="仿写环信的helper" />
@@ -3527,7 +3458,9 @@
     <MESSAGE value="点击联系人进入到详情资料界面&#10;" />
     <MESSAGE value="viewpager和fragment一起使用对onContextItemSelected的影响" />
     <MESSAGE value="添加保护,避免只有环信好友关系的用户进入详情界面出现空指针问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加保护,避免只有环信好友关系的用户进入详情界面出现空指针问题" />
+    <MESSAGE value="删除联系人" />
+    <MESSAGE value="删除联系人刷新消息列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除联系人刷新消息列表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3543,20 +3476,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/db/DbOpenHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="27" column="204" selection-start-line="27" selection-start-column="204" selection-end-line="27" selection-end-column="204" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../easeui/src/com/hyphenate/easeui/domain/EaseUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -3831,7 +3750,7 @@
         <state relative-caret-position="340">
           <caret line="119" column="44" selection-start-line="119" selection-start-column="44" selection-end-line="119" selection-end-column="44" />
           <folding>
-            <element signature="e#3147#3179#0" expanded="true" />
+            <element signature="e#3147#3179#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3930,22 +3849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/FriendProfileActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/SuperWeChatHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="1378" column="26" selection-start-line="1378" selection-start-column="26" selection-end-line="1378" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/data/NetDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
@@ -3973,18 +3876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
-          <folding>
-            <element signature="e#6393#6421#0" expanded="true" />
-            <element signature="e#17148#18010#0" expanded="true" />
-            <element signature="e#18009#18010#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ContactListFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -3999,6 +3890,55 @@
           <caret line="134" column="8" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
           <folding>
             <element signature="e#4105#4113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/SuperWeChatHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="1378" column="26" selection-start-line="1378" selection-start-column="26" selection-end-line="1378" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/FriendProfileActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/ChatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+          <folding>
+            <element signature="e#1853#1854#0" expanded="true" />
+            <element signature="e#1890#1891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ypxy/superwechat/ui/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="450" column="9" selection-start-line="450" selection-start-column="9" selection-end-line="450" selection-end-column="9" />
+          <folding>
+            <element signature="e#6423#6451#0" expanded="true" />
+            <element signature="e#8739#9567#0" expanded="true" />
+            <element signature="e#9566#9567#0" expanded="true" />
+            <element signature="e#17672#18534#0" expanded="true" />
+            <element signature="e#18533#18534#0" expanded="true" />
           </folding>
         </state>
       </provider>

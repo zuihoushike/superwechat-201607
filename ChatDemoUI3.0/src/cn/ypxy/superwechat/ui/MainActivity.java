@@ -58,6 +58,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import cn.ypxy.superchat.R;
 import cn.ypxy.superwechat.Constant;
+import cn.ypxy.superwechat.I;
 import cn.ypxy.superwechat.SuperWeChatHelper;
 import cn.ypxy.superwechat.adapter.MTabAdapter;
 import cn.ypxy.superwechat.db.InviteMessgeDao;
@@ -443,6 +444,12 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 			updateUnreadAddressLable();
 		}
 
+		boolean extra = getIntent().getBooleanExtra(I.ACTION_BACK_CONVERSATION, false);
+		L.e(TAG,"extra="+extra);
+		if(extra){
+//			mLayoutTabhost.setChecked(0);
+		}
+
 		// unregister this event listener when this activity enters the
 		// background
 		SuperWeChatHelper sdkHelper = SuperWeChatHelper.getInstance();
@@ -564,6 +571,12 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 			showConflictDialog();
 		} else if (intent.getBooleanExtra(Constant.ACCOUNT_REMOVED, false) && !isAccountRemovedDialogShow) {
 			showAccountRemovedDialog();
+		}
+
+		boolean isBack = intent.getBooleanExtra(I.ACTION_BACK_CONVERSATION, false);
+		L.e(TAG,"isBack="+isBack);
+		if(isBack){
+//			mLayoutTabhost.setChecked(0);
 		}
 	}
 
