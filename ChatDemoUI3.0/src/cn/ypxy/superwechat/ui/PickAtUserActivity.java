@@ -15,6 +15,7 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroup;
 import com.hyphenate.easeui.adapter.EaseContactAdapter;
 import com.hyphenate.easeui.domain.EaseUser;
+import com.hyphenate.easeui.domain.User;
 import com.hyphenate.easeui.utils.EaseUserUtils;
 import com.hyphenate.easeui.widget.EaseSidebar;
 
@@ -40,15 +41,20 @@ public class PickAtUserActivity extends BaseActivity{
         listView = (ListView) findViewById(R.id.list);
         sidebar.setListView(listView);
         List<String> members = group.getMembers();
-        List<EaseUser> userList = new ArrayList<EaseUser>();
+        List<User> userList = new ArrayList<User>();
         for(String username : members){
-            EaseUser user = EaseUserUtils.getUserInfo(username);
+            User user = EaseUserUtils.getAppUserInfo(username);
             userList.add(user);
         }
 
-        Collections.sort(userList, new Comparator<EaseUser>() {
+        Collections.sort(userList, new Comparator<User>() {
 
             @Override
+            public int compare(User o1, User o2) {
+                return 0;
+            }
+
+
             public int compare(EaseUser lhs, EaseUser rhs) {
                 if(lhs.getInitialLetter().equals(rhs.getInitialLetter())){
                     return lhs.getNick().compareTo(rhs.getNick());
@@ -67,7 +73,7 @@ public class PickAtUserActivity extends BaseActivity{
         if(isOwner) {
             addHeadView();
         }
-        listView.setAdapter(new PickUserAdapter(this, 0, userList));
+//        listView.setAdapter(new PickUserAdapter(this, 0, userList));
         listView.setOnItemClickListener(new OnItemClickListener() {
 
             @Override

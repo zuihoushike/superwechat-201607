@@ -26,6 +26,7 @@ import cn.ypxy.superwechat.Constant;
 import cn.ypxy.superwechat.SuperWeChatHelper;
 import com.hyphenate.easeui.adapter.EaseContactAdapter;
 import com.hyphenate.easeui.domain.EaseUser;
+import com.hyphenate.easeui.domain.User;
 import com.hyphenate.easeui.widget.EaseSidebar;
 
 import java.util.ArrayList;
@@ -39,7 +40,7 @@ import java.util.Map.Entry;
 public class PickContactNoCheckboxActivity extends BaseActivity {
 
 	protected EaseContactAdapter contactAdapter;
-	private List<EaseUser> contactList;
+	private List<User> contactList;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -48,11 +49,11 @@ public class PickContactNoCheckboxActivity extends BaseActivity {
 		ListView listView = (ListView) findViewById(R.id.list);
 		EaseSidebar sidebar = (EaseSidebar) findViewById(R.id.sidebar);
 		sidebar.setListView(listView);
-		contactList = new ArrayList<EaseUser>();
+		contactList = new ArrayList<User>();
 		// get contactlist
 		getContactList();
 		// set adapter
-		contactAdapter = new EaseContactAdapter(this, R.layout.ease_row_contact, contactList);
+//		contactAdapter = new EaseContactAdapter(this, R.layout.ease_row_contact, contactList);
 		listView.setAdapter(contactAdapter);
 		listView.setOnItemClickListener(new OnItemClickListener() {
 
@@ -78,8 +79,8 @@ public class PickContactNoCheckboxActivity extends BaseActivity {
 		contactList.clear();
 		Map<String, EaseUser> users = SuperWeChatHelper.getInstance().getContactList();
 		for (Entry<String, EaseUser> entry : users.entrySet()) {
-			if (!entry.getKey().equals(Constant.NEW_FRIENDS_USERNAME) && !entry.getKey().equals(Constant.GROUP_USERNAME) && !entry.getKey().equals(Constant.CHAT_ROOM) && !entry.getKey().equals(Constant.CHAT_ROBOT))
-				contactList.add(entry.getValue());
+			if (!entry.getKey().equals(Constant.NEW_FRIENDS_USERNAME) && !entry.getKey().equals(Constant.GROUP_USERNAME) && !entry.getKey().equals(Constant.CHAT_ROOM) && !entry.getKey().equals(Constant.CHAT_ROBOT));
+//				contactList.add(entry.getValue());
 		}
 		// sort
         Collections.sort(contactList, new Comparator<EaseUser>() {
