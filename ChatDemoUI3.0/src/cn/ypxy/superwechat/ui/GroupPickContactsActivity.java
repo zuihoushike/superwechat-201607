@@ -92,7 +92,7 @@ public class GroupPickContactsActivity extends BaseActivity {
         });
 
 		ListView listView = (ListView) findViewById(R.id.list);
-		contactAdapter = new PickContactAdapter(this, R.layout.em_row_contact_with_checkbox, alluserList);
+//		contactAdapter = new PickContactAdapter(this, R.layout.em_row_contact_with_checkbox, alluserList);
 		listView.setAdapter(contactAdapter);
 		((EaseSidebar) findViewById(R.id.sidebar)).setListView(listView);
 		listView.setOnItemClickListener(new OnItemClickListener() {
@@ -142,10 +142,10 @@ public class GroupPickContactsActivity extends BaseActivity {
 
 		private boolean[] isCheckedArray;
 
-		public PickContactAdapter(Context context, int resource, :List<User> user) {
-			super(context, resource,user);
-			isCheckedArray = new boolean[user.size()];
+		public PickContactAdapter(Context context, int resource, List<EaseUser> objects) {
+			super(context, resource, objects);
 		}
+
 
 		@Override
 		public View getView(final int position, View convertView, ViewGroup parent) {
