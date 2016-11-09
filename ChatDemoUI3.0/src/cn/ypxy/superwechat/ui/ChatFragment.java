@@ -33,6 +33,7 @@ import cn.ypxy.superwechat.Constant;
 import cn.ypxy.superwechat.SuperWeChatHelper;
 import cn.ypxy.superwechat.domain.EmojiconExampleGroupData;
 import cn.ypxy.superwechat.domain.RobotUser;
+import cn.ypxy.superwechat.utils.MFGT;
 import cn.ypxy.superwechat.widget.ChatRowVoiceCall;
 import com.hyphenate.easeui.EaseConstant;
 import com.hyphenate.easeui.ui.EaseChatFragment;
@@ -255,9 +256,7 @@ public class ChatFragment extends EaseChatFragment implements EaseChatFragmentHe
     @Override
     public void onAvatarClick(String username) {
         //handling when user click avatar
-        Intent intent = new Intent(getActivity(), UserProfileActivity.class);
-        intent.putExtra("username", username);
-        startActivity(intent);
+        MFGT.gotoFriendProfile(getActivity(),SuperWeChatHelper.getInstance().getAppContactList().get(username));
     }
     
     @Override
