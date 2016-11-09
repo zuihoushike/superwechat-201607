@@ -386,6 +386,8 @@ public class MainActivity extends BaseActivity implements CompoundButton.OnCheck
 	 */
 	public void updateUnreadLabel() {
 		int count = getUnreadMsgCountTotal();
+		L.e(TAG,"updateUnread,count="+count);
+//		mLayoutTabhost.setUnreadCount(0,count);
 	}
 
 	/**
