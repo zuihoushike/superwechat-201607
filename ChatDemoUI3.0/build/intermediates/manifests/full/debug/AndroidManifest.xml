@@ -93,8 +93,7 @@
         <activity
             android:name="cn.ypxy.superwechat.ui.AddContactActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="stateVisible" />
+            android:theme="@style/horizontal_slide" />
         <!-- 群组详情 -->
         <activity
             android:name="cn.ypxy.superwechat.ui.GroupDetailsActivity"

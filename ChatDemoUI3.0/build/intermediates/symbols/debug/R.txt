@@ -833,7 +833,6 @@ int id action_bar 0x7f0c0000
 int id actionbar_title 0x7f0c0001
 int id activity_guide 0x7f0c0027
 int id add_list_friends 0x7f0c00c7
-int id add_to_blacklist 0x7f0c0241
 int id agree 0x7f0c011e
 int id alert_message 0x7f0c0039
 int id application_item 0x7f0c00f2
@@ -919,8 +918,8 @@ int id decode 0x7f0c0003
 int id decode_failed 0x7f0c0004
 int id decode_succeeded 0x7f0c0005
 int id delete_contact 0x7f0c0240
-int id delete_conversation 0x7f0c0245
-int id delete_message 0x7f0c0246
+int id delete_conversation 0x7f0c0244
+int id delete_message 0x7f0c0245
 int id detail_fragment_container 0x7f0c013b
 int id detail_loading_target 0x7f0c017e
 int id dialog_hint_cancel 0x7f0c01e5
@@ -1146,7 +1145,7 @@ int id recorder_start 0x7f0c011a
 int id recorder_stop 0x7f0c011b
 int id recording_hint 0x7f0c008f
 int id rectangle 0x7f0c0016
-int id remove 0x7f0c0247
+int id remove 0x7f0c0246
 int id restart_preview 0x7f0c000e
 int id return_scan_result 0x7f0c000f
 int id right_image 0x7f0c008d
@@ -1393,9 +1392,9 @@ int id umeng_update_id_ignore 0x7f0c023a
 int id umeng_update_id_ok 0x7f0c0238
 int id umeng_update_wifi_indicator 0x7f0c0234
 int id unread_msg_number 0x7f0c004e
-int id update_blacklist 0x7f0c0243
-int id update_contacts 0x7f0c0242
-int id update_groups 0x7f0c0244
+int id update_blacklist 0x7f0c0242
+int id update_contacts 0x7f0c0241
+int id update_groups 0x7f0c0243
 int id user_head_avatar 0x7f0c00cd
 int id user_head_headphoto_update 0x7f0c00ce
 int id user_nickname 0x7f0c00d1

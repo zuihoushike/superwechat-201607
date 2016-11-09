@@ -21,13 +21,15 @@ import com.hyphenate.chat.EMMessage;
 import cn.ypxy.superchat.R;
 import cn.ypxy.superwechat.Constant;
 import cn.ypxy.superwechat.db.InviteMessgeDao;
+import cn.ypxy.superwechat.utils.L;
+
 import com.hyphenate.easeui.model.EaseAtMessageHelper;
 import com.hyphenate.easeui.ui.EaseConversationListFragment;
 import com.hyphenate.easeui.widget.EaseConversationList.EaseConversationListHelper;
 import com.hyphenate.util.NetUtils;
 
 public class ConversationListFragment extends EaseConversationListFragment{
-
+    private static final String TAG = ConversationListFragment.class.getSimpleName();
     private TextView errorText;
 
     @Override
@@ -113,11 +115,14 @@ public class ConversationListFragment extends EaseConversationListFragment{
 
     @Override
     public boolean onContextItemSelected(MenuItem item) {
+        L.e(TAG,"onContextItemSelected..."+item.getItemId());
         boolean deleteMessage = false;
         if (item.getItemId() == R.id.delete_message) {
             deleteMessage = true;
         } else if (item.getItemId() == R.id.delete_conversation) {
             deleteMessage = false;
+        }else {
+            return false;
         }
     	EMConversation tobeDeleteCons = conversationListView.getItem(((AdapterContextMenuInfo) item.getMenuInfo()).position);
     	if (tobeDeleteCons == null) {
