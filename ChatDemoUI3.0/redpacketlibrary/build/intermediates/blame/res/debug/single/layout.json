@@ -32,20 +32,20 @@
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_fragment_my_bankcard.xml"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_textview.xml",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_textview.xml"
-    },
-    {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_sent_red_packet.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\em_row_sent_red_packet.xml"
     },
     {
-        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_activity_bind_bankcard.xml",
-        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_activity_bind_bankcard.xml"
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_textview.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_textview.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_group_member_header.xml",
         "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_group_member_header.xml"
+    },
+    {
+        "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_activity_bind_bankcard.xml",
+        "source": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\res\\layout\\rp_activity_bind_bankcard.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\ChatDemoUI3.0\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_menu_item.xml",

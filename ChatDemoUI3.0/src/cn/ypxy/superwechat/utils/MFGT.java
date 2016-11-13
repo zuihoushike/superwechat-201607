@@ -12,8 +12,11 @@ import cn.ypxy.superwechat.I;
 import cn.ypxy.superwechat.ui.AddFriendActivity;
 import cn.ypxy.superwechat.ui.ChatActivity;
 import cn.ypxy.superwechat.ui.FriendProfileActivity;
+import cn.ypxy.superwechat.ui.GroupsActivity;
 import cn.ypxy.superwechat.ui.LoginActivity;
 import cn.ypxy.superwechat.ui.NewFriendsMsgActivity;
+import cn.ypxy.superwechat.ui.NewGroupActivity;
+import cn.ypxy.superwechat.ui.PublicGroupsActivity;
 import cn.ypxy.superwechat.ui.RegisterActivity;
 
 
@@ -69,5 +72,14 @@ public class MFGT {
         intent.setClass(context,ChatActivity.class);
         intent.putExtra("userId",username);
         startActivity(context, intent);
+    }
+    public static void gotoGroup(Activity context) {
+        startActivity(context, GroupsActivity.class);
+    }
+    public static void gotoCreateNewGroup(Activity context) {
+        startActivity(context, NewGroupActivity.class);
+    }
+    public static void gotoPublicGroup(Activity context) {
+        startActivity(context, PublicGroupsActivity.class);
     }
 }
