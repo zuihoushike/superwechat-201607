@@ -9,8 +9,10 @@ import com.hyphenate.chat.EMGroup;
 import java.io.File;
 
 import cn.ypxy.superwechat.I;
+import cn.ypxy.superwechat.SuperWeChatHelper;
 import cn.ypxy.superwechat.bean.Result;
 import cn.ypxy.superwechat.ui.NewGroupActivity;
+import cn.ypxy.superwechat.utils.L;
 import cn.ypxy.superwechat.utils.MD5;
 
 
@@ -135,7 +137,20 @@ public class NetDao {
                 .execute(listener);
     }
 
-    public static void addGroupMembers(NewGroupActivity newGroupActivity, EMGroup emGroup, OkHttpUtils.OnCompleteListener<String> onCompleteListener) {
-
+    public static void addGroupMembers(Context context, EMGroup emGroup, OkHttpUtils.OnCompleteListener<String> listener){
+        String memberArr = "";
+        for (String m:emGroup.getMembers()){
+            if(!m.equals(SuperWeChatHelper.getInstance().getCurrentUsernName())) {
+                memberArr += m + ",";
+            }
+        }
+        memberArr = memberArr.substring(0,memberArr.length()-1);
+        L.e("addGroupMembers","memberArr="+memberArr);
+        OkHttpUtils<String> utils = new OkHttpUtils<>(context);
+        utils.setRequestUrl(I.REQUEST_ADD_GROUP_MEMBERS)
+                .addParam(I.Member.GROUP_HX_ID,emGroup.getGroupId())
+                .addParam(I.Member.USER_NAME,memberArr)
+                .targetClass(String.class)
+                .execute(listener);
     }
 }
