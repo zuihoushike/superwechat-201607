@@ -241,4 +241,7 @@ public class EaseCommonUtils {
         }
         user.setInitialLetter(letter);
     }
+
+    public static void setAppUserInitialLetter(User user) {
+    }
 }

@@ -20,16 +20,16 @@
         "source": "F:\\SuperWeChat\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_sent_voice.xml"
     },
     {
-        "merged": "F:\\SuperWeChat\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_expression.xml",
-        "source": "F:\\SuperWeChat\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_expression.xml"
+        "merged": "F:\\SuperWeChat\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "F:\\SuperWeChat\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_expression_gridview.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_menu_item.xml",
         "source": "F:\\SuperWeChat\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_chat_menu_item.xml"
     },
     {
-        "merged": "F:\\SuperWeChat\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_expression_gridview.xml",
-        "source": "F:\\SuperWeChat\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_expression_gridview.xml"
+        "merged": "F:\\SuperWeChat\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_expression.xml",
+        "source": "F:\\SuperWeChat\\easeui\\build\\intermediates\\bundles\\debug\\res\\layout\\ease_row_expression.xml"
     },
     {
         "merged": "F:\\SuperWeChat\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_chat.xml",
